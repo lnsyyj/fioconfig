@@ -1,0 +1,12 @@
+[global]
+ioengine=rbd
+clientname=admin
+pool=rbd
+invalidate=0    # mandatory
+rw=write
+bs=10M
+
+
+[rbd_iodepth64]
+iodepth=64
+rbdname=rbd-7

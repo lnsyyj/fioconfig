@@ -1,0 +1,975 @@
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node1, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node3, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+hostname=node2, be=0, 64-bit, os=Linux, arch=aarch64, fio=fio-3.12, flags=1
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> Starting 1 process
+<node3> Starting 1 process
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> Starting 1 process
+<node2> Starting 1 process
+<node2> Starting 1 process
+<node1> Starting 1 process
+<node2> Starting 1 process
+<node1> Starting 1 process
+<node1> Starting 1 process
+<node2> Starting 1 process
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> Starting 1 process
+<node2> Starting 1 process
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> Starting 1 process
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> Starting 1 process
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node2> Starting 1 process
+<node3> Starting 1 process
+<node2> Starting 1 process
+<node2> Starting 1 process
+<node3> Starting 1 process
+<node2> Starting 1 process
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> Starting 1 process
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node3> rbd: (g=0): rw=randread, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=64
+<node1> Starting 1 process
+<node3> Starting 1 process
+<node1> Starting 1 process
+<node1> Starting 1 process
+<node1> Starting 1 process
+<node1> Starting 1 process
+<node3> Starting 1 process
+<node1> Starting 1 process
+<node3> Starting 1 process
+Jobs: 30 (f=30): [r(1)][29.7%][r=25.0M][r=3124 IOPS][eta 09m:59s]Jobs: 30 (f=30): [r(1)][32.1%][r=26.2M][r=3273 IOPS][eta 09m:58s]Jobs: 30 (f=30): [r(1)][34.4%][r=26.1M][r=3267 IOPS][eta 09m:57s]Jobs: 30 (f=30): [r(1)][36.5%][r=26.4M][r=3301 IOPS][eta 09m:56s]Jobs: 30 (f=30): [r(1)][38.5%][r=25.9M][r=3239 IOPS][eta 09m:55s]Jobs: 30 (f=30): [r(1)][40.4%][r=25.2M][r=3146 IOPS][eta 09m:54s]Jobs: 30 (f=30): [r(1)][42.2%][r=25.7M][r=3208 IOPS][eta 09m:53s]Jobs: 30 (f=30): [r(1)][43.9%][r=26.0M][r=3255 IOPS][eta 09m:52s]Jobs: 30 (f=30): [r(1)][45.5%][r=26.7M][r=3341 IOPS][eta 09m:51s]Jobs: 30 (f=30): [r(1)][47.0%][r=25.7M][r=3215 IOPS][eta 09m:50s]Jobs: 30 (f=30): [r(1)][48.4%][r=25.5M][r=3191 IOPS][eta 09m:49s]Jobs: 30 (f=30): [r(1)][49.8%][r=25.8M][r=3222 IOPS][eta 09m:48s]Jobs: 30 (f=30): [r(1)][51.1%][r=25.2M][r=3152 IOPS][eta 09m:47s]Jobs: 30 (f=30): [r(1)][52.3%][r=25.6M][r=3204 IOPS][eta 09m:46s]Jobs: 30 (f=30): [r(1)][53.5%][r=25.5M][r=3193 IOPS][eta 09m:45s]Jobs: 30 (f=30): [r(1)][54.6%][r=24.5M][r=3059 IOPS][eta 09m:44s]Jobs: 30 (f=30): [r(1)][55.7%][r=24.2M][r=3029 IOPS][eta 09m:43s]Jobs: 30 (f=30): [r(1)][56.7%][r=23.7M][r=2957 IOPS][eta 09m:42s]Jobs: 30 (f=30): [r(1)][57.7%][r=24.2M][r=3027 IOPS][eta 09m:41s]Jobs: 30 (f=30): [r(1)][58.7%][r=24.4M][r=3046 IOPS][eta 09m:40s]Jobs: 30 (f=30): [r(1)][59.6%][r=23.8M][r=2976 IOPS][eta 09m:39s]Jobs: 30 (f=30): [r(1)][60.4%][r=24.3M][r=3033 IOPS][eta 09m:38s]Jobs: 30 (f=30): [r(1)][61.3%][r=24.1M][r=3009 IOPS][eta 09m:37s]Jobs: 30 (f=30): [r(1)][62.1%][r=23.8M][r=2975 IOPS][eta 09m:36s]Jobs: 30 (f=30): [r(1)][62.9%][r=24.1M][r=3012 IOPS][eta 09m:35s]Jobs: 30 (f=30): [r(1)][63.6%][r=23.9M][r=2984 IOPS][eta 09m:34s]Jobs: 30 (f=30): [r(1)][64.3%][r=23.8M][r=2976 IOPS][eta 09m:33s]Jobs: 30 (f=30): [r(1)][65.0%][r=23.4M][r=2924 IOPS][eta 09m:32s]Jobs: 30 (f=30): [r(1)][65.7%][r=22.3M][r=2785 IOPS][eta 09m:31s]Jobs: 30 (f=30): [r(1)][66.3%][r=23.0M][r=2879 IOPS][eta 09m:30s]Jobs: 30 (f=30): [r(1)][67.0%][r=22.3M][r=2788 IOPS][eta 09m:29s]Jobs: 30 (f=30): [r(1)][67.6%][r=22.1M][r=2768 IOPS][eta 09m:28s]Jobs: 30 (f=30): [r(1)][68.1%][r=21.9M][r=2732 IOPS][eta 09m:27s]Jobs: 30 (f=30): [r(1)][68.7%][r=22.8M][r=2850 IOPS][eta 09m:26s]Jobs: 30 (f=30): [r(1)][69.3%][r=22.1M][r=2761 IOPS][eta 09m:25s]Jobs: 30 (f=30): [r(1)][69.8%][r=23.2M][r=2896 IOPS][eta 09m:24s]Jobs: 30 (f=30): [r(1)][70.3%][r=24.4M][r=3045 IOPS][eta 09m:23s]Jobs: 30 (f=30): [r(1)][70.8%][r=24.2M][r=3023 IOPS][eta 09m:22s]Jobs: 30 (f=30): [r(1)][71.3%][r=24.8M][r=3101 IOPS][eta 09m:21s]Jobs: 30 (f=30): [r(1)][71.8%][r=24.0M][r=3003 IOPS][eta 09m:20s]Jobs: 30 (f=30): [r(1)][72.2%][r=23.1M][r=2889 IOPS][eta 09m:19s]Jobs: 30 (f=30): [r(1)][72.7%][r=22.6M][r=2827 IOPS][eta 09m:18s]Jobs: 30 (f=30): [r(1)][73.1%][r=22.7M][r=2839 IOPS][eta 09m:17s]Jobs: 30 (f=30): [r(1)][73.5%][r=23.0M][r=2879 IOPS][eta 09m:16s]Jobs: 30 (f=30): [r(1)][73.9%][r=21.7M][r=2716 IOPS][eta 09m:15s]Jobs: 30 (f=30): [r(1)][74.3%][r=21.9M][r=2741 IOPS][eta 09m:14s]Jobs: 30 (f=30): [r(1)][74.7%][r=22.3M][r=2784 IOPS][eta 09m:13s]Jobs: 30 (f=30): [r(1)][75.1%][r=22.6M][r=2829 IOPS][eta 09m:12s]Jobs: 30 (f=30): [r(1)][75.4%][r=21.6M][r=2702 IOPS][eta 09m:11s]Jobs: 30 (f=30): [r(1)][75.8%][r=22.0M][r=2752 IOPS][eta 09m:10s]Jobs: 30 (f=30): [r(1)][76.2%][r=22.6M][r=2830 IOPS][eta 09m:09s]Jobs: 30 (f=30): [r(1)][76.5%][r=21.7M][r=2714 IOPS][eta 09m:08s]Jobs: 30 (f=30): [r(1)][76.8%][r=20.4M][r=2549 IOPS][eta 09m:07s]Jobs: 30 (f=30): [r(1)][77.1%][r=21.0M][r=2630 IOPS][eta 09m:06s]Jobs: 30 (f=30): [r(1)][77.5%][r=21.4M][r=2677 IOPS][eta 09m:05s]Jobs: 30 (f=30): [r(1)][77.8%][r=22.7M][r=2838 IOPS][eta 09m:04s]Jobs: 30 (f=30): [r(1)][78.1%][r=21.9M][r=2735 IOPS][eta 09m:03s]Jobs: 30 (f=30): [r(1)][78.4%][r=22.1M][r=2761 IOPS][eta 09m:02s]Jobs: 30 (f=30): [r(1)][78.7%][r=22.9M][r=2868 IOPS][eta 09m:01s]Jobs: 30 (f=30): [r(1)][78.9%][r=22.6M][r=2826 IOPS][eta 09m:00s]Jobs: 30 (f=30): [r(1)][79.2%][r=21.9M][r=2739 IOPS][eta 08m:59s]Jobs: 30 (f=30): [r(1)][79.5%][r=21.7M][r=2710 IOPS][eta 08m:58s]Jobs: 30 (f=30): [r(1)][79.7%][r=21.8M][r=2723 IOPS][eta 08m:57s]Jobs: 30 (f=30): [r(1)][80.0%][r=22.9M][r=2868 IOPS][eta 08m:56s]Jobs: 30 (f=30): [r(1)][80.2%][r=21.5M][r=2690 IOPS][eta 08m:55s]Jobs: 30 (f=30): [r(1)][80.5%][r=22.9M][r=2858 IOPS][eta 08m:54s]Jobs: 30 (f=30): [r(1)][80.7%][r=21.6M][r=2703 IOPS][eta 08m:53s]Jobs: 30 (f=30): [r(1)][81.0%][r=21.8M][r=2720 IOPS][eta 08m:52s]Jobs: 30 (f=30): [r(1)][81.2%][r=20.5M][r=2565 IOPS][eta 08m:51s]Jobs: 30 (f=30): [r(1)][81.4%][r=21.2M][r=2654 IOPS][eta 08m:50s]Jobs: 30 (f=30): [r(1)][81.6%][r=20.1M][r=2511 IOPS][eta 08m:49s]Jobs: 30 (f=30): [r(1)][81.9%][r=19.8M][r=2469 IOPS][eta 08m:48s]Jobs: 30 (f=30): [r(1)][82.1%][r=20.6M][r=2570 IOPS][eta 08m:47s]Jobs: 30 (f=30): [r(1)][82.3%][r=20.9M][r=2608 IOPS][eta 08m:46s]Jobs: 30 (f=30): [r(1)][82.5%][r=19.3M][r=2410 IOPS][eta 08m:45s]Jobs: 30 (f=30): [r(1)][82.7%][r=19.1M][r=2384 IOPS][eta 08m:44s]Jobs: 30 (f=30): [r(1)][82.9%][r=18.8M][r=2352 IOPS][eta 08m:43s]Jobs: 30 (f=30): [r(1)][83.1%][r=18.5M][r=2315 IOPS][eta 08m:42s]Jobs: 30 (f=30): [r(1)][83.3%][r=19.5M][r=2434 IOPS][eta 08m:41s]Jobs: 30 (f=30): [r(1)][83.5%][r=19.0M][r=2379 IOPS][eta 08m:40s]Jobs: 30 (f=30): [r(1)][83.6%][r=19.7M][r=2458 IOPS][eta 08m:39s]Jobs: 30 (f=30): [r(1)][83.8%][r=18.6M][r=2323 IOPS][eta 08m:38s]Jobs: 30 (f=30): [r(1)][84.0%][r=18.9M][r=2364 IOPS][eta 08m:37s]Jobs: 30 (f=30): [r(1)][84.2%][r=19.7M][r=2458 IOPS][eta 08m:36s]Jobs: 30 (f=30): [r(1)][84.3%][r=17.9M][r=2242 IOPS][eta 08m:35s]Jobs: 30 (f=30): [r(1)][84.5%][r=18.6M][r=2324 IOPS][eta 08m:34s]Jobs: 30 (f=30): [r(1)][84.7%][r=20.9M][r=2618 IOPS][eta 08m:33s]Jobs: 30 (f=30): [r(1)][84.8%][r=18.0M][r=2372 IOPS][eta 08m:32s]Jobs: 30 (f=30): [r(1)][85.0%][r=18.5M][r=2314 IOPS][eta 08m:31s]Jobs: 30 (f=30): [r(1)][85.1%][r=19.7M][r=2459 IOPS][eta 08m:30s]Jobs: 30 (f=30): [r(1)][85.3%][r=21.1M][r=2636 IOPS][eta 08m:29s]Jobs: 30 (f=30): [r(1)][85.4%][r=20.8M][r=2596 IOPS][eta 08m:28s]Jobs: 30 (f=30): [r(1)][85.6%][r=21.1M][r=2635 IOPS][eta 08m:27s]Jobs: 30 (f=30): [r(1)][85.7%][r=20.8M][r=2599 IOPS][eta 08m:26s]Jobs: 30 (f=30): [r(1)][85.9%][r=19.2M][r=2405 IOPS][eta 08m:25s]Jobs: 30 (f=30): [r(1)][86.0%][r=19.5M][r=2439 IOPS][eta 08m:24s]Jobs: 30 (f=30): [r(1)][86.2%][r=19.1M][r=2387 IOPS][eta 08m:23s]Jobs: 30 (f=30): [r(1)][86.3%][r=18.6M][r=2320 IOPS][eta 08m:22s]Jobs: 30 (f=30): [r(1)][86.4%][r=18.1M][r=2261 IOPS][eta 08m:21s]Jobs: 30 (f=30): [r(1)][86.6%][r=18.9M][r=2362 IOPS][eta 08m:20s]Jobs: 30 (f=30): [r(1)][86.7%][r=20.6M][r=2570 IOPS][eta 08m:19s]Jobs: 30 (f=30): [r(1)][86.8%][r=20.5M][r=2567 IOPS][eta 08m:18s]Jobs: 30 (f=30): [r(1)][87.0%][r=19.9M][r=2489 IOPS][eta 08m:17s]Jobs: 30 (f=30): [r(1)][87.1%][r=20.7M][r=2586 IOPS][eta 08m:16s]Jobs: 30 (f=30): [r(1)][87.2%][r=20.8M][r=2598 IOPS][eta 08m:15s]Jobs: 30 (f=30): [r(1)][87.3%][r=20.3M][r=2532 IOPS][eta 08m:14s]Jobs: 30 (f=30): [r(1)][87.4%][r=19.9M][r=2492 IOPS][eta 08m:13s]Jobs: 30 (f=30): [r(1)][87.6%][r=19.2M][r=2405 IOPS][eta 08m:12s]Jobs: 30 (f=30): [r(1)][87.7%][r=17.8M][r=2221 IOPS][eta 08m:11s]Jobs: 30 (f=30): [r(1)][87.8%][r=18.5M][r=2307 IOPS][eta 08m:10s]Jobs: 30 (f=30): [r(1)][87.9%][r=20.4M][r=2551 IOPS][eta 08m:09s]Jobs: 30 (f=30): [r(1)][88.0%][r=19.8M][r=2479 IOPS][eta 08m:08s]Jobs: 30 (f=30): [r(1)][88.1%][r=19.1M][r=2390 IOPS][eta 08m:07s]Jobs: 30 (f=30): [r(1)][88.2%][r=19.5M][r=2438 IOPS][eta 08m:06s]Jobs: 30 (f=30): [r(1)][88.3%][r=19.2M][r=2395 IOPS][eta 08m:05s]Jobs: 30 (f=30): [r(1)][88.4%][r=19.7M][r=2461 IOPS][eta 08m:04s]Jobs: 30 (f=30): [r(1)][88.5%][r=19.7M][r=2459 IOPS][eta 08m:03s]Jobs: 30 (f=30): [r(1)][88.6%][r=19.5M][r=2438 IOPS][eta 08m:02s]Jobs: 30 (f=30): [r(1)][88.7%][r=21.8M][r=2720 IOPS][eta 08m:01s]Jobs: 30 (f=30): [r(1)][88.8%][r=21.8M][r=2720 IOPS][eta 08m:00s]Jobs: 30 (f=30): [r(1)][88.9%][r=20.3M][r=2540 IOPS][eta 07m:59s]Jobs: 30 (f=30): [r(1)][89.0%][r=20.4M][r=2550 IOPS][eta 07m:58s]Jobs: 30 (f=30): [r(1)][89.1%][r=20.1M][r=2518 IOPS][eta 07m:57s]Jobs: 30 (f=30): [r(1)][89.2%][r=18.8M][r=2356 IOPS][eta 07m:56s]Jobs: 30 (f=30): [r(1)][89.3%][r=20.0M][r=2506 IOPS][eta 07m:55s]Jobs: 30 (f=30): [r(1)][89.4%][r=20.1M][r=2513 IOPS][eta 07m:54s]Jobs: 30 (f=30): [r(1)][89.5%][r=19.6M][r=2453 IOPS][eta 07m:53s]Jobs: 30 (f=30): [r(1)][89.6%][r=20.0M][r=2500 IOPS][eta 07m:52s]Jobs: 30 (f=30): [r(1)][89.7%][r=21.2M][r=2655 IOPS][eta 07m:51s]Jobs: 30 (f=30): [r(1)][89.8%][r=23.1M][r=2883 IOPS][eta 07m:50s]Jobs: 30 (f=30): [r(1)][89.9%][r=22.0M][r=2754 IOPS][eta 07m:49s]Jobs: 30 (f=30): [r(1)][89.9%][r=21.0M][r=2628 IOPS][eta 07m:48s]Jobs: 30 (f=30): [r(1)][90.0%][r=21.2M][r=2651 IOPS][eta 07m:47s]Jobs: 30 (f=30): [r(1)][90.1%][r=22.4M][r=2799 IOPS][eta 07m:46s]Jobs: 30 (f=30): [r(1)][90.2%][r=20.7M][r=2582 IOPS][eta 07m:45s]Jobs: 30 (f=30): [r(1)][90.3%][r=19.6M][r=2447 IOPS][eta 07m:44s]Jobs: 30 (f=30): [r(1)][90.3%][r=19.2M][r=2400 IOPS][eta 07m:43s]Jobs: 30 (f=30): [r(1)][90.4%][r=19.8M][r=2479 IOPS][eta 07m:42s]Jobs: 30 (f=30): [r(1)][90.5%][r=19.4M][r=2422 IOPS][eta 07m:41s]Jobs: 30 (f=30): [r(1)][90.6%][r=19.6M][r=2445 IOPS][eta 07m:40s]Jobs: 30 (f=30): [r(1)][90.7%][r=20.2M][r=2521 IOPS][eta 07m:39s]Jobs: 30 (f=30): [r(1)][90.7%][r=19.9M][r=2492 IOPS][eta 07m:38s]Jobs: 30 (f=30): [r(1)][90.8%][r=18.9M][r=2357 IOPS][eta 07m:37s]Jobs: 30 (f=30): [r(1)][90.9%][r=18.3M][r=2283 IOPS][eta 07m:36s]Jobs: 30 (f=30): [r(1)][91.0%][r=18.9M][r=2364 IOPS][eta 07m:35s]Jobs: 30 (f=30): [r(1)][91.0%][r=19.5M][r=2438 IOPS][eta 07m:34s]Jobs: 30 (f=30): [r(1)][91.1%][r=18.3M][r=2288 IOPS][eta 07m:33s]Jobs: 30 (f=30): [r(1)][91.2%][r=18.5M][r=2309 IOPS][eta 07m:32s]Jobs: 30 (f=30): [r(1)][91.2%][r=19.5M][r=2437 IOPS][eta 07m:31s]Jobs: 30 (f=30): [r(1)][91.3%][r=18.2M][r=2275 IOPS][eta 07m:30s]Jobs: 30 (f=30): [r(1)][91.4%][r=19.5M][r=2442 IOPS][eta 07m:29s]Jobs: 30 (f=30): [r(1)][91.4%][r=19.5M][r=2443 IOPS][eta 07m:28s]Jobs: 30 (f=30): [r(1)][91.5%][r=20.2M][r=2521 IOPS][eta 07m:27s]Jobs: 30 (f=30): [r(1)][91.6%][r=19.4M][r=2431 IOPS][eta 07m:26s]Jobs: 30 (f=30): [r(1)][91.6%][r=18.1M][r=2263 IOPS][eta 07m:25s]Jobs: 30 (f=30): [r(1)][91.7%][r=20.4M][r=2547 IOPS][eta 07m:24s]Jobs: 30 (f=30): [r(1)][91.8%][r=19.6M][r=2452 IOPS][eta 07m:23s]Jobs: 30 (f=30): [r(1)][91.8%][r=20.7M][r=2584 IOPS][eta 07m:22s]Jobs: 30 (f=30): [r(1)][91.9%][r=20.5M][r=2568 IOPS][eta 07m:21s]Jobs: 30 (f=30): [r(1)][91.9%][r=20.0M][r=2506 IOPS][eta 07m:20s]Jobs: 30 (f=30): [r(1)][92.0%][r=20.2M][r=2522 IOPS][eta 07m:19s]Jobs: 30 (f=30): [r(1)][92.1%][r=20.4M][r=2549 IOPS][eta 07m:18s]Jobs: 30 (f=30): [r(1)][92.1%][r=20.7M][r=2587 IOPS][eta 07m:17s]Jobs: 30 (f=30): [r(1)][92.2%][r=19.1M][r=2393 IOPS][eta 07m:16s]Jobs: 30 (f=30): [r(1)][92.2%][r=21.1M][r=2631 IOPS][eta 07m:15s]Jobs: 30 (f=30): [r(1)][92.3%][r=20.0M][r=2624 IOPS][eta 07m:14s]Jobs: 30 (f=30): [r(1)][92.4%][r=20.4M][r=2545 IOPS][eta 07m:13s]Jobs: 30 (f=30): [r(1)][92.4%][r=18.4M][r=2295 IOPS][eta 07m:12s]Jobs: 30 (f=30): [r(1)][92.5%][r=21.4M][r=2674 IOPS][eta 07m:11s]Jobs: 30 (f=30): [r(1)][92.5%][r=20.0M][r=2501 IOPS][eta 07m:10s]Jobs: 30 (f=30): [r(1)][92.6%][r=20.2M][r=2525 IOPS][eta 07m:09s]Jobs: 30 (f=30): [r(1)][92.6%][r=21.2M][r=2646 IOPS][eta 07m:08s]Jobs: 30 (f=30): [r(1)][92.7%][r=19.2M][r=2395 IOPS][eta 07m:07s]Jobs: 30 (f=30): [r(1)][92.7%][r=19.0M][r=2494 IOPS][eta 07m:06s]Jobs: 30 (f=30): [r(1)][92.8%][r=20.7M][r=2582 IOPS][eta 07m:05s]Jobs: 30 (f=30): [r(1)][92.8%][r=19.6M][r=2456 IOPS][eta 07m:04s]Jobs: 30 (f=30): [r(1)][92.9%][r=18.8M][r=2356 IOPS][eta 07m:03s]Jobs: 30 (f=30): [r(1)][92.9%][r=20.3M][r=2539 IOPS][eta 07m:02s]Jobs: 30 (f=30): [r(1)][93.0%][r=20.9M][r=2610 IOPS][eta 07m:01s]Jobs: 30 (f=30): [r(1)][93.0%][r=19.6M][r=2455 IOPS][eta 07m:00s]Jobs: 30 (f=30): [r(1)][93.1%][r=19.0M][r=2378 IOPS][eta 06m:59s]Jobs: 30 (f=30): [r(1)][93.1%][r=18.4M][r=2306 IOPS][eta 06m:58s]Jobs: 30 (f=30): [r(1)][93.2%][r=18.7M][r=2333 IOPS][eta 06m:57s]Jobs: 30 (f=30): [r(1)][93.2%][r=19.9M][r=2493 IOPS][eta 06m:56s]Jobs: 30 (f=30): [r(1)][93.3%][r=18.6M][r=2323 IOPS][eta 06m:55s]Jobs: 30 (f=30): [r(1)][93.3%][r=18.0M][r=2372 IOPS][eta 06m:54s]Jobs: 30 (f=30): [r(1)][93.4%][r=19.9M][r=2489 IOPS][eta 06m:53s]Jobs: 30 (f=30): [r(1)][93.4%][r=20.7M][r=2593 IOPS][eta 06m:52s]Jobs: 30 (f=30): [r(1)][93.5%][r=19.8M][r=2481 IOPS][eta 06m:51s]Jobs: 30 (f=30): [r(1)][93.5%][r=20.6M][r=2573 IOPS][eta 06m:50s]Jobs: 30 (f=30): [r(1)][93.6%][r=19.6M][r=2450 IOPS][eta 06m:49s]Jobs: 30 (f=30): [r(1)][93.6%][r=18.9M][r=2362 IOPS][eta 06m:48s]Jobs: 30 (f=30): [r(1)][93.7%][r=20.5M][r=2567 IOPS][eta 06m:47s]Jobs: 30 (f=30): [r(1)][93.7%][r=19.2M][r=2395 IOPS][eta 06m:46s]Jobs: 30 (f=30): [r(1)][93.7%][r=19.0M][r=2494 IOPS][eta 06m:45s]Jobs: 30 (f=30): [r(1)][93.8%][r=19.5M][r=2440 IOPS][eta 06m:44s]Jobs: 30 (f=30): [r(1)][93.8%][r=20.6M][r=2571 IOPS][eta 06m:43s]Jobs: 30 (f=30): [r(1)][93.9%][r=20.7M][r=2586 IOPS][eta 06m:42s]Jobs: 30 (f=30): [r(1)][93.9%][r=20.7M][r=2583 IOPS][eta 06m:41s]Jobs: 30 (f=30): [r(1)][94.0%][r=19.7M][r=2459 IOPS][eta 06m:40s]Jobs: 30 (f=30): [r(1)][94.0%][r=20.7M][r=2592 IOPS][eta 06m:39s]Jobs: 30 (f=30): [r(1)][94.0%][r=20.3M][r=2534 IOPS][eta 06m:38s]Jobs: 30 (f=30): [r(1)][94.1%][r=20.6M][r=2574 IOPS][eta 06m:37s]Jobs: 30 (f=30): [r(1)][94.1%][r=20.5M][r=2558 IOPS][eta 06m:36s]Jobs: 30 (f=30): [r(1)][94.2%][r=21.2M][r=2645 IOPS][eta 06m:35s]Jobs: 30 (f=30): [r(1)][94.2%][r=19.8M][r=2470 IOPS][eta 06m:34s]Jobs: 30 (f=30): [r(1)][94.2%][r=21.7M][r=2713 IOPS][eta 06m:33s]Jobs: 30 (f=30): [r(1)][94.3%][r=20.9M][r=2617 IOPS][eta 06m:32s]Jobs: 30 (f=30): [r(1)][94.3%][r=19.4M][r=2428 IOPS][eta 06m:31s]Jobs: 30 (f=30): [r(1)][94.4%][r=20.8M][r=2597 IOPS][eta 06m:30s]Jobs: 30 (f=30): [r(1)][94.4%][r=20.4M][r=2556 IOPS][eta 06m:29s]Jobs: 30 (f=30): [r(1)][94.4%][r=20.4M][r=2555 IOPS][eta 06m:28s]Jobs: 30 (f=30): [r(1)][94.5%][r=20.3M][r=2533 IOPS][eta 06m:27s]Jobs: 30 (f=30): [r(1)][94.5%][r=19.7M][r=2459 IOPS][eta 06m:26s]Jobs: 30 (f=30): [r(1)][94.5%][r=20.3M][r=2532 IOPS][eta 06m:25s]Jobs: 30 (f=30): [r(1)][94.6%][r=19.0M][r=2494 IOPS][eta 06m:24s]Jobs: 30 (f=30): [r(1)][94.6%][r=18.0M][r=2372 IOPS][eta 06m:23s]Jobs: 30 (f=30): [r(1)][94.7%][r=18.8M][r=2350 IOPS][eta 06m:22s]Jobs: 30 (f=30): [r(1)][94.7%][r=18.7M][r=2338 IOPS][eta 06m:21s]Jobs: 30 (f=30): [r(1)][94.7%][r=18.5M][r=2316 IOPS][eta 06m:20s]Jobs: 30 (f=30): [r(1)][94.8%][r=19.4M][r=2421 IOPS][eta 06m:19s]Jobs: 30 (f=30): [r(1)][94.8%][r=20.6M][r=2576 IOPS][eta 06m:18s]Jobs: 30 (f=30): [r(1)][94.8%][r=21.9M][r=2739 IOPS][eta 06m:17s]Jobs: 30 (f=30): [r(1)][94.9%][r=22.5M][r=2808 IOPS][eta 06m:16s]Jobs: 30 (f=30): [r(1)][94.9%][r=21.1M][r=2633 IOPS][eta 06m:15s]Jobs: 30 (f=30): [r(1)][94.9%][r=20.6M][r=2573 IOPS][eta 06m:14s]Jobs: 30 (f=30): [r(1)][95.0%][r=20.4M][r=2556 IOPS][eta 06m:13s]Jobs: 30 (f=30): [r(1)][95.0%][r=20.0M][r=2504 IOPS][eta 06m:12s]Jobs: 30 (f=30): [r(1)][95.0%][r=19.5M][r=2432 IOPS][eta 06m:11s]Jobs: 30 (f=30): [r(1)][95.1%][r=20.2M][r=2523 IOPS][eta 06m:10s]Jobs: 30 (f=30): [r(1)][95.1%][r=19.6M][r=2446 IOPS][eta 06m:09s]Jobs: 30 (f=30): [r(1)][95.1%][r=20.7M][r=2586 IOPS][eta 06m:08s]Jobs: 30 (f=30): [r(1)][95.2%][r=18.0M][r=2373 IOPS][eta 06m:07s]Jobs: 30 (f=30): [r(1)][95.2%][r=20.0M][r=2506 IOPS][eta 06m:06s]Jobs: 30 (f=30): [r(1)][95.2%][r=19.0M][r=2380 IOPS][eta 06m:05s]Jobs: 30 (f=30): [r(1)][95.3%][r=19.5M][r=2437 IOPS][eta 06m:04s]Jobs: 30 (f=30): [r(1)][95.3%][r=19.6M][r=2455 IOPS][eta 06m:03s]Jobs: 30 (f=30): [r(1)][95.3%][r=19.8M][r=2472 IOPS][eta 06m:02s]Jobs: 30 (f=30): [r(1)][95.3%][r=18.8M][r=2347 IOPS][eta 06m:01s]Jobs: 30 (f=30): [r(1)][95.4%][r=19.1M][r=2382 IOPS][eta 06m:00s]Jobs: 30 (f=30): [r(1)][95.4%][r=18.4M][r=2301 IOPS][eta 05m:59s]Jobs: 30 (f=30): [r(1)][95.4%][r=19.9M][r=2485 IOPS][eta 05m:58s]Jobs: 30 (f=30): [r(1)][95.5%][r=20.5M][r=2563 IOPS][eta 05m:57s]Jobs: 30 (f=30): [r(1)][95.5%][r=20.2M][r=2521 IOPS][eta 05m:56s]Jobs: 30 (f=30): [r(1)][95.5%][r=19.1M][r=2387 IOPS][eta 05m:55s]Jobs: 30 (f=30): [r(1)][95.6%][r=19.5M][r=2442 IOPS][eta 05m:54s]Jobs: 30 (f=30): [r(1)][95.6%][r=20.5M][r=2559 IOPS][eta 05m:53s]Jobs: 30 (f=30): [r(1)][95.6%][r=21.6M][r=2697 IOPS][eta 05m:52s]Jobs: 30 (f=30): [r(1)][95.6%][r=21.5M][r=2691 IOPS][eta 05m:51s]Jobs: 30 (f=30): [r(1)][95.7%][r=21.1M][r=2637 IOPS][eta 05m:50s]Jobs: 30 (f=30): [r(1)][95.7%][r=20.6M][r=2578 IOPS][eta 05m:49s]Jobs: 30 (f=30): [r(1)][95.7%][r=20.8M][r=2600 IOPS][eta 05m:48s]Jobs: 30 (f=30): [r(1)][95.7%][r=19.8M][r=2474 IOPS][eta 05m:47s]Jobs: 30 (f=30): [r(1)][95.8%][r=20.0M][r=2619 IOPS][eta 05m:46s]Jobs: 30 (f=30): [r(1)][95.8%][r=20.8M][r=2596 IOPS][eta 05m:45s]Jobs: 30 (f=30): [r(1)][95.8%][r=21.1M][r=2632 IOPS][eta 05m:44s]Jobs: 30 (f=30): [r(1)][95.9%][r=20.5M][r=2567 IOPS][eta 05m:43s]Jobs: 30 (f=30): [r(1)][95.9%][r=19.8M][r=2479 IOPS][eta 05m:42s]Jobs: 30 (f=30): [r(1)][95.9%][r=20.3M][r=2538 IOPS][eta 05m:41s]Jobs: 30 (f=30): [r(1)][95.9%][r=17.5M][r=2185 IOPS][eta 05m:40s]Jobs: 30 (f=30): [r(1)][96.0%][r=17.3M][r=2165 IOPS][eta 05m:39s]Jobs: 30 (f=30): [r(1)][96.0%][r=18.0M][r=2253 IOPS][eta 05m:38s]Jobs: 30 (f=30): [r(1)][96.0%][r=18.6M][r=2325 IOPS][eta 05m:37s]Jobs: 30 (f=30): [r(1)][96.0%][r=17.4M][r=2175 IOPS][eta 05m:36s]Jobs: 30 (f=30): [r(1)][96.1%][r=17.4M][r=2171 IOPS][eta 05m:35s]Jobs: 30 (f=30): [r(1)][96.1%][r=19.2M][r=2396 IOPS][eta 05m:34s]Jobs: 30 (f=30): [r(1)][96.1%][r=17.9M][r=2238 IOPS][eta 05m:33s]Jobs: 30 (f=30): [r(1)][96.1%][r=18.5M][r=2314 IOPS][eta 05m:32s]Jobs: 30 (f=30): [r(1)][96.2%][r=18.7M][r=2335 IOPS][eta 05m:31s]Jobs: 30 (f=30): [r(1)][96.2%][r=17.9M][r=2234 IOPS][eta 05m:30s]Jobs: 30 (f=30): [r(1)][96.2%][r=16.9M][r=2107 IOPS][eta 05m:29s]Jobs: 30 (f=30): [r(1)][96.2%][r=15.9M][r=1992 IOPS][eta 05m:28s]Jobs: 30 (f=30): [r(1)][96.3%][r=17.2M][r=2145 IOPS][eta 05m:27s]Jobs: 30 (f=30): [r(1)][96.3%][r=17.6M][r=2206 IOPS][eta 05m:26s]Jobs: 30 (f=30): [r(1)][96.3%][r=18.8M][r=2350 IOPS][eta 05m:25s]Jobs: 30 (f=30): [r(1)][96.3%][r=19.1M][r=2388 IOPS][eta 05m:24s]Jobs: 30 (f=30): [r(1)][96.4%][r=19.0M][r=2378 IOPS][eta 05m:23s]Jobs: 30 (f=30): [r(1)][96.4%][r=19.7M][r=2464 IOPS][eta 05m:22s]Jobs: 30 (f=30): [r(1)][96.4%][r=18.6M][r=2328 IOPS][eta 05m:21s]Jobs: 30 (f=30): [r(1)][96.4%][r=16.8M][r=2101 IOPS][eta 05m:20s]Jobs: 30 (f=30): [r(1)][96.4%][r=16.0M][r=2003 IOPS][eta 05m:19s]Jobs: 30 (f=30): [r(1)][96.5%][r=17.7M][r=2216 IOPS][eta 05m:18s]Jobs: 30 (f=30): [r(1)][96.5%][r=17.3M][r=2157 IOPS][eta 05m:17s]Jobs: 30 (f=30): [r(1)][96.5%][r=18.8M][r=2344 IOPS][eta 05m:16s]Jobs: 30 (f=30): [r(1)][96.5%][r=18.6M][r=2326 IOPS][eta 05m:15s]Jobs: 30 (f=30): [r(1)][96.6%][r=18.1M][r=2264 IOPS][eta 05m:14s]Jobs: 30 (f=30): [r(1)][96.6%][r=18.4M][r=2303 IOPS][eta 05m:13s]Jobs: 30 (f=30): [r(1)][96.6%][r=17.9M][r=2241 IOPS][eta 05m:12s]Jobs: 30 (f=30): [r(1)][96.6%][r=17.6M][r=2205 IOPS][eta 05m:11s]Jobs: 30 (f=30): [r(1)][96.6%][r=18.1M][r=2263 IOPS][eta 05m:10s]Jobs: 30 (f=30): [r(1)][96.7%][r=17.4M][r=2180 IOPS][eta 05m:09s]Jobs: 30 (f=30): [r(1)][96.7%][r=16.6M][r=2069 IOPS][eta 05m:08s]Jobs: 30 (f=30): [r(1)][96.7%][r=17.0M][r=2247 IOPS][eta 05m:07s]Jobs: 30 (f=30): [r(1)][96.7%][r=17.9M][r=2235 IOPS][eta 05m:06s]Jobs: 30 (f=30): [r(1)][96.7%][r=15.1M][r=1888 IOPS][eta 05m:05s]Jobs: 30 (f=30): [r(1)][96.8%][r=16.3M][r=2039 IOPS][eta 05m:04s]Jobs: 30 (f=30): [r(1)][96.8%][r=14.0M][r=1871 IOPS][eta 05m:03s]Jobs: 30 (f=30): [r(1)][96.8%][r=16.6M][r=2076 IOPS][eta 05m:02s]Jobs: 30 (f=30): [r(1)][96.8%][r=17.1M][r=2135 IOPS][eta 05m:01s]Jobs: 30 (f=30): [r(1)][96.9%][r=15.7M][r=1967 IOPS][eta 05m:00s]Jobs: 30 (f=30): [r(1)][96.9%][r=17.7M][r=2213 IOPS][eta 04m:59s]Jobs: 30 (f=30): [r(1)][96.9%][r=18.6M][r=2319 IOPS][eta 04m:58s]Jobs: 30 (f=30): [r(1)][96.9%][r=18.6M][r=2327 IOPS][eta 04m:57s]Jobs: 30 (f=30): [r(1)][96.9%][r=17.5M][r=2183 IOPS][eta 04m:56s]Jobs: 30 (f=30): [r(1)][97.0%][r=18.5M][r=2311 IOPS][eta 04m:55s]Jobs: 30 (f=30): [r(1)][97.0%][r=17.9M][r=2233 IOPS][eta 04m:54s]Jobs: 30 (f=30): [r(1)][97.0%][r=17.3M][r=2164 IOPS][eta 04m:53s]Jobs: 30 (f=30): [r(1)][97.0%][r=16.2M][r=2028 IOPS][eta 04m:52s]Jobs: 30 (f=30): [r(1)][97.0%][r=14.7M][r=1840 IOPS][eta 04m:51s]Jobs: 30 (f=30): [r(1)][97.0%][r=13.8M][r=1721 IOPS][eta 04m:50s]Jobs: 30 (f=30): [r(1)][97.1%][r=16.7M][r=2083 IOPS][eta 04m:49s]Jobs: 30 (f=30): [r(1)][97.1%][r=15.1M][r=1890 IOPS][eta 04m:48s]Jobs: 30 (f=30): [r(1)][97.1%][r=15.9M][r=1985 IOPS][eta 04m:47s]Jobs: 30 (f=30): [r(1)][97.1%][r=16.0M][r=2122 IOPS][eta 04m:46s]Jobs: 30 (f=30): [r(1)][97.1%][r=14.1M][r=1767 IOPS][eta 04m:45s]Jobs: 30 (f=30): [r(1)][97.2%][r=13.6M][r=1705 IOPS][eta 04m:44s]Jobs: 30 (f=30): [r(1)][97.2%][r=15.9M][r=1989 IOPS][eta 04m:43s]Jobs: 30 (f=30): [r(1)][97.2%][r=17.5M][r=2192 IOPS][eta 04m:42s]Jobs: 30 (f=30): [r(1)][97.2%][r=16.9M][r=2108 IOPS][eta 04m:41s]Jobs: 30 (f=30): [r(1)][97.2%][r=15.0M][r=1996 IOPS][eta 04m:40s]Jobs: 30 (f=30): [r(1)][97.2%][r=16.1M][r=2013 IOPS][eta 04m:39s]Jobs: 30 (f=30): [r(1)][97.3%][r=15.3M][r=1913 IOPS][eta 04m:38s]Jobs: 30 (f=30): [r(1)][97.3%][r=16.3M][r=2042 IOPS][eta 04m:37s]Jobs: 30 (f=30): [r(1)][97.3%][r=17.3M][r=2163 IOPS][eta 04m:36s]Jobs: 30 (f=30): [r(1)][97.3%][r=17.6M][r=2194 IOPS][eta 04m:35s]Jobs: 30 (f=30): [r(1)][97.3%][r=17.1M][r=2136 IOPS][eta 04m:34s]Jobs: 30 (f=30): [r(1)][97.4%][r=17.5M][r=2193 IOPS][eta 04m:33s]Jobs: 30 (f=30): [r(1)][97.4%][r=18.8M][r=2353 IOPS][eta 04m:32s]Jobs: 30 (f=30): [r(1)][97.4%][r=17.7M][r=2211 IOPS][eta 04m:31s]Jobs: 30 (f=30): [r(1)][97.4%][r=15.7M][r=1967 IOPS][eta 04m:30s]Jobs: 30 (f=30): [r(1)][97.4%][r=13.8M][r=1726 IOPS][eta 04m:29s]Jobs: 30 (f=30): [r(1)][97.4%][r=15.9M][r=1987 IOPS][eta 04m:28s]Jobs: 30 (f=30): [r(1)][97.5%][r=17.6M][r=2206 IOPS][eta 04m:27s]Jobs: 30 (f=30): [r(1)][97.5%][r=15.6M][r=1955 IOPS][eta 04m:26s]Jobs: 30 (f=30): [r(1)][97.5%][r=16.8M][r=2095 IOPS][eta 04m:25s]Jobs: 30 (f=30): [r(1)][97.5%][r=16.7M][r=2090 IOPS][eta 04m:24s]Jobs: 30 (f=30): [r(1)][97.5%][r=16.4M][r=2055 IOPS][eta 04m:23s]Jobs: 30 (f=30): [r(1)][97.5%][r=17.6M][r=2202 IOPS][eta 04m:22s]Jobs: 30 (f=30): [r(1)][97.6%][r=18.1M][r=2263 IOPS][eta 04m:21s]Jobs: 30 (f=30): [r(1)][97.6%][r=15.7M][r=1962 IOPS][eta 04m:20s]Jobs: 30 (f=30): [r(1)][97.6%][r=16.8M][r=2094 IOPS][eta 04m:19s]Jobs: 30 (f=30): [r(1)][97.6%][r=16.0M][r=2119 IOPS][eta 04m:18s]Jobs: 30 (f=30): [r(1)][97.6%][r=15.3M][r=1912 IOPS][eta 04m:17s]Jobs: 30 (f=30): [r(1)][97.6%][r=15.7M][r=1962 IOPS][eta 04m:16s]Jobs: 30 (f=30): [r(1)][97.6%][r=15.7M][r=1967 IOPS][eta 04m:15s]Jobs: 30 (f=30): [r(1)][97.7%][r=15.5M][r=1932 IOPS][eta 04m:14s]Jobs: 30 (f=30): [r(1)][97.7%][r=13.7M][r=1714 IOPS][eta 04m:13s]Jobs: 30 (f=30): [r(1)][97.7%][r=14.9M][r=1858 IOPS][eta 04m:12s]Jobs: 30 (f=30): [r(1)][97.7%][r=15.8M][r=1969 IOPS][eta 04m:11s]Jobs: 30 (f=30): [r(1)][97.7%][r=15.8M][r=1981 IOPS][eta 04m:10s]Jobs: 30 (f=30): [r(1)][97.7%][r=16.3M][r=2037 IOPS][eta 04m:09s]Jobs: 30 (f=30): [r(1)][97.8%][r=17.1M][r=2135 IOPS][eta 04m:08s]Jobs: 30 (f=30): [r(1)][97.8%][r=16.7M][r=2092 IOPS][eta 04m:07s]Jobs: 30 (f=30): [r(1)][97.8%][r=15.7M][r=1968 IOPS][eta 04m:06s]Jobs: 30 (f=30): [r(1)][97.8%][r=15.7M][r=1964 IOPS][eta 04m:05s]Jobs: 30 (f=30): [r(1)][97.8%][r=16.4M][r=2051 IOPS][eta 04m:04s]Jobs: 30 (f=30): [r(1)][97.8%][r=17.0M][r=2129 IOPS][eta 04m:03s]Jobs: 30 (f=30): [r(1)][97.8%][r=18.2M][r=2271 IOPS][eta 04m:02s]Jobs: 30 (f=30): [r(1)][97.9%][r=16.3M][r=2035 IOPS][eta 04m:01s]Jobs: 30 (f=30): [r(1)][97.9%][r=15.6M][r=1953 IOPS][eta 04m:00s]Jobs: 30 (f=30): [r(1)][97.9%][r=15.7M][r=1967 IOPS][eta 03m:59s]Jobs: 30 (f=30): [r(1)][97.9%][r=16.1M][r=2011 IOPS][eta 03m:58s]Jobs: 30 (f=30): [r(1)][97.9%][r=15.5M][r=1939 IOPS][eta 03m:57s]Jobs: 30 (f=30): [r(1)][97.9%][r=15.6M][r=1944 IOPS][eta 03m:56s]Jobs: 30 (f=30): [r(1)][97.9%][r=15.4M][r=1931 IOPS][eta 03m:55s]Jobs: 30 (f=30): [r(1)][98.0%][r=16.3M][r=2038 IOPS][eta 03m:54s]Jobs: 30 (f=30): [r(1)][98.0%][r=16.4M][r=2048 IOPS][eta 03m:53s]Jobs: 30 (f=30): [r(1)][98.0%][r=14.3M][r=1788 IOPS][eta 03m:52s]Jobs: 30 (f=30): [r(1)][98.0%][r=15.6M][r=1949 IOPS][eta 03m:51s]Jobs: 30 (f=30): [r(1)][98.0%][r=15.7M][r=1960 IOPS][eta 03m:50s]Jobs: 30 (f=30): [r(1)][98.0%][r=17.3M][r=2157 IOPS][eta 03m:49s]Jobs: 30 (f=30): [r(1)][98.0%][r=15.7M][r=1962 IOPS][eta 03m:48s]Jobs: 30 (f=30): [r(1)][98.1%][r=14.4M][r=1800 IOPS][eta 03m:46s]Jobs: 30 (f=30): [r(1)][98.1%][r=15.4M][r=1926 IOPS][eta 03m:45s]Jobs: 30 (f=30): [r(1)][98.1%][r=15.3M][r=1907 IOPS][eta 03m:44s]Jobs: 30 (f=30): [r(1)][98.1%][r=16.1M][r=2007 IOPS][eta 03m:43s]Jobs: 30 (f=30): [r(1)][98.1%][r=15.9M][r=1989 IOPS][eta 03m:42s]Jobs: 30 (f=30): [r(1)][98.1%][r=16.5M][r=2064 IOPS][eta 03m:41s]Jobs: 30 (f=30): [r(1)][98.1%][r=15.9M][r=1985 IOPS][eta 03m:40s]Jobs: 30 (f=30): [r(1)][98.2%][r=15.2M][r=1902 IOPS][eta 03m:39s]Jobs: 30 (f=30): [r(1)][98.2%][r=15.5M][r=1937 IOPS][eta 03m:38s]Jobs: 30 (f=30): [r(1)][98.2%][r=17.6M][r=2200 IOPS][eta 03m:37s]Jobs: 30 (f=30): [r(1)][98.2%][r=17.5M][r=2188 IOPS][eta 03m:36s]Jobs: 30 (f=30): [r(1)][98.2%][r=16.6M][r=2074 IOPS][eta 03m:35s]Jobs: 30 (f=30): [r(1)][98.2%][r=17.4M][r=2169 IOPS][eta 03m:34s]Jobs: 30 (f=30): [r(1)][98.2%][r=16.9M][r=2113 IOPS][eta 03m:33s]Jobs: 30 (f=30): [r(1)][98.2%][r=17.0M][r=2127 IOPS][eta 03m:32s]Jobs: 30 (f=30): [r(1)][98.3%][r=15.5M][r=1937 IOPS][eta 03m:31s]Jobs: 30 (f=30): [r(1)][98.3%][r=16.7M][r=2082 IOPS][eta 03m:30s]Jobs: 30 (f=30): [r(1)][98.3%][r=16.9M][r=2114 IOPS][eta 03m:29s]Jobs: 30 (f=30): [r(1)][98.3%][r=14.5M][r=1809 IOPS][eta 03m:28s]Jobs: 30 (f=30): [r(1)][98.3%][r=13.9M][r=1739 IOPS][eta 03m:27s]Jobs: 30 (f=30): [r(1)][98.3%][r=15.9M][r=1986 IOPS][eta 03m:26s]Jobs: 30 (f=30): [r(1)][98.3%][r=15.0M][r=1878 IOPS][eta 03m:25s]Jobs: 30 (f=30): [r(1)][98.3%][r=16.2M][r=2023 IOPS][eta 03m:24s]Jobs: 30 (f=30): [r(1)][98.4%][r=17.1M][r=2138 IOPS][eta 03m:23s]Jobs: 30 (f=30): [r(1)][98.4%][r=15.7M][r=1964 IOPS][eta 03m:22s]Jobs: 30 (f=30): [r(1)][98.4%][r=16.2M][r=2030 IOPS][eta 03m:21s]Jobs: 30 (f=30): [r(1)][98.4%][r=14.8M][r=1855 IOPS][eta 03m:20s]Jobs: 30 (f=30): [r(1)][98.4%][r=13.1M][r=1641 IOPS][eta 03m:19s]Jobs: 30 (f=30): [r(1)][98.4%][r=15.2M][r=1900 IOPS][eta 03m:18s]Jobs: 30 (f=30): [r(1)][98.4%][r=16.4M][r=2047 IOPS][eta 03m:17s]Jobs: 30 (f=30): [r(1)][98.4%][r=14.5M][r=1811 IOPS][eta 03m:16s]Jobs: 30 (f=30): [r(1)][98.4%][r=14.8M][r=1851 IOPS][eta 03m:15s]Jobs: 30 (f=30): [r(1)][98.5%][r=16.5M][r=2059 IOPS][eta 03m:14s]Jobs: 30 (f=30): [r(1)][98.5%][r=15.0M][r=1999 IOPS][eta 03m:13s]Jobs: 30 (f=30): [r(1)][98.5%][r=16.6M][r=2072 IOPS][eta 03m:12s]Jobs: 30 (f=30): [r(1)][98.5%][r=15.7M][r=1966 IOPS][eta 03m:11s]Jobs: 30 (f=30): [r(1)][98.5%][r=16.6M][r=2076 IOPS][eta 03m:10s]Jobs: 30 (f=30): [r(1)][98.5%][r=16.2M][r=2023 IOPS][eta 03m:09s]Jobs: 30 (f=30): [r(1)][98.5%][r=15.6M][r=1954 IOPS][eta 03m:08s]Jobs: 30 (f=30): [r(1)][98.5%][r=14.0M][r=1751 IOPS][eta 03m:07s]Jobs: 30 (f=30): [r(1)][98.6%][r=14.0M][r=1874 IOPS][eta 03m:06s]Jobs: 30 (f=30): [r(1)][98.6%][r=14.0M][r=1870 IOPS][eta 03m:05s]Jobs: 30 (f=30): [r(1)][98.6%][r=16.0M][r=2002 IOPS][eta 03m:04s]Jobs: 30 (f=30): [r(1)][98.6%][r=15.3M][r=1907 IOPS][eta 03m:03s]Jobs: 30 (f=30): [r(1)][98.6%][r=15.6M][r=1949 IOPS][eta 03m:02s]Jobs: 30 (f=30): [r(1)][98.6%][r=16.4M][r=2050 IOPS][eta 03m:01s]Jobs: 30 (f=30): [r(1)][98.6%][r=17.8M][r=2223 IOPS][eta 03m:00s]Jobs: 30 (f=30): [r(1)][98.6%][r=17.7M][r=2209 IOPS][eta 02m:59s]Jobs: 30 (f=30): [r(1)][98.6%][r=16.2M][r=2022 IOPS][eta 02m:58s]Jobs: 30 (f=30): [r(1)][98.6%][r=15.6M][r=1954 IOPS][eta 02m:57s]Jobs: 30 (f=30): [r(1)][98.7%][r=15.8M][r=1969 IOPS][eta 02m:56s]Jobs: 30 (f=30): [r(1)][98.7%][r=15.8M][r=1971 IOPS][eta 02m:55s]Jobs: 30 (f=30): [r(1)][98.7%][r=17.2M][r=2156 IOPS][eta 02m:54s]Jobs: 30 (f=30): [r(1)][98.7%][r=18.1M][r=2265 IOPS][eta 02m:53s]Jobs: 30 (f=30): [r(1)][98.7%][r=17.4M][r=2170 IOPS][eta 02m:52s]Jobs: 30 (f=30): [r(1)][98.7%][r=16.1M][r=2012 IOPS][eta 02m:51s]Jobs: 30 (f=30): [r(1)][98.7%][r=15.2M][r=1903 IOPS][eta 02m:50s]Jobs: 30 (f=30): [r(1)][98.7%][r=15.4M][r=1924 IOPS][eta 02m:49s]Jobs: 30 (f=30): [r(1)][98.7%][r=15.3M][r=1907 IOPS][eta 02m:48s]Jobs: 30 (f=30): [r(1)][98.8%][r=13.5M][r=1689 IOPS][eta 02m:47s]Jobs: 30 (f=30): [r(1)][98.8%][r=17.1M][r=2136 IOPS][eta 02m:46s]Jobs: 30 (f=30): [r(1)][98.8%][r=16.3M][r=2035 IOPS][eta 02m:45s]Jobs: 30 (f=30): [r(1)][98.8%][r=16.8M][r=2105 IOPS][eta 02m:44s]Jobs: 30 (f=30): [r(1)][98.8%][r=15.5M][r=1943 IOPS][eta 02m:43s]Jobs: 30 (f=30): [r(1)][98.8%][r=18.0M][r=2256 IOPS][eta 02m:42s]Jobs: 30 (f=30): [r(1)][98.8%][r=16.5M][r=2067 IOPS][eta 02m:41s]Jobs: 30 (f=30): [r(1)][98.8%][r=16.7M][r=2090 IOPS][eta 02m:40s]Jobs: 30 (f=30): [r(1)][98.8%][r=15.6M][r=1950 IOPS][eta 02m:39s]Jobs: 30 (f=30): [r(1)][98.8%][r=15.5M][r=1943 IOPS][eta 02m:38s]Jobs: 30 (f=30): [r(1)][98.9%][r=17.1M][r=2135 IOPS][eta 02m:37s]Jobs: 30 (f=30): [r(1)][98.9%][r=14.5M][r=1812 IOPS][eta 02m:36s]Jobs: 30 (f=30): [r(1)][98.9%][r=15.3M][r=1907 IOPS][eta 02m:35s]Jobs: 30 (f=30): [r(1)][98.9%][r=15.2M][r=1895 IOPS][eta 02m:34s]Jobs: 30 (f=30): [r(1)][98.9%][r=15.9M][r=1987 IOPS][eta 02m:33s]Jobs: 30 (f=30): [r(1)][98.9%][r=16.4M][r=2053 IOPS][eta 02m:32s]Jobs: 30 (f=30): [r(1)][98.9%][r=15.0M][r=1999 IOPS][eta 02m:31s]Jobs: 30 (f=30): [r(1)][98.9%][r=16.8M][r=2096 IOPS][eta 02m:30s]Jobs: 30 (f=30): [r(1)][98.9%][r=16.2M][r=2029 IOPS][eta 02m:29s]Jobs: 30 (f=30): [r(1)][98.9%][r=16.6M][r=2071 IOPS][eta 02m:28s]Jobs: 30 (f=30): [r(1)][98.9%][r=18.4M][r=2296 IOPS][eta 02m:27s]Jobs: 30 (f=30): [r(1)][99.0%][r=17.8M][r=2225 IOPS][eta 02m:26s]Jobs: 30 (f=30): [r(1)][99.0%][r=17.0M][r=2246 IOPS][eta 02m:25s]Jobs: 30 (f=30): [r(1)][99.0%][r=16.7M][r=2087 IOPS][eta 02m:24s]Jobs: 30 (f=30): [r(1)][99.0%][r=16.4M][r=2054 IOPS][eta 02m:23s]Jobs: 30 (f=30): [r(1)][99.0%][r=18.1M][r=2263 IOPS][eta 02m:22s]Jobs: 30 (f=30): [r(1)][99.0%][r=18.8M][r=2349 IOPS][eta 02m:21s]Jobs: 30 (f=30): [r(1)][99.0%][r=18.6M][r=2317 IOPS][eta 02m:20s]Jobs: 30 (f=30): [r(1)][99.0%][r=17.1M][r=2136 IOPS][eta 02m:19s]Jobs: 30 (f=30): [r(1)][99.0%][r=16.7M][r=2087 IOPS][eta 02m:18s]Jobs: 30 (f=30): [r(1)][99.0%][r=16.4M][r=2050 IOPS][eta 02m:17s]Jobs: 30 (f=30): [r(1)][99.0%][r=16.4M][r=2044 IOPS][eta 02m:16s]Jobs: 30 (f=30): [r(1)][99.1%][r=17.2M][r=2151 IOPS][eta 02m:15s]Jobs: 30 (f=30): [r(1)][99.1%][r=16.7M][r=2089 IOPS][eta 02m:14s]Jobs: 30 (f=30): [r(1)][99.1%][r=15.6M][r=1946 IOPS][eta 02m:13s]Jobs: 30 (f=30): [r(1)][99.1%][r=16.7M][r=2087 IOPS][eta 02m:12s]Jobs: 30 (f=30): [r(1)][99.1%][r=15.8M][r=1974 IOPS][eta 02m:11s]Jobs: 30 (f=30): [r(1)][99.1%][r=16.8M][r=2094 IOPS][eta 02m:10s]Jobs: 30 (f=30): [r(1)][99.1%][r=17.8M][r=2229 IOPS][eta 02m:09s]Jobs: 30 (f=30): [r(1)][99.1%][r=16.0M][r=2001 IOPS][eta 02m:08s]Jobs: 30 (f=30): [r(1)][99.1%][r=16.9M][r=2111 IOPS][eta 02m:07s]Jobs: 30 (f=30): [r(1)][99.1%][r=17.5M][r=2182 IOPS][eta 02m:06s]Jobs: 30 (f=30): [r(1)][99.1%][r=18.2M][r=2279 IOPS][eta 02m:05s]Jobs: 30 (f=30): [r(1)][99.2%][r=19.4M][r=2419 IOPS][eta 02m:04s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.6M][r=2075 IOPS][eta 02m:03s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.5M][r=2059 IOPS][eta 02m:02s]Jobs: 30 (f=30): [r(1)][99.2%][r=17.0M][r=2128 IOPS][eta 02m:01s]Jobs: 30 (f=30): [r(1)][99.2%][r=18.3M][r=2292 IOPS][eta 02m:00s]Jobs: 30 (f=30): [r(1)][99.2%][r=17.6M][r=2202 IOPS][eta 01m:59s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.6M][r=2081 IOPS][eta 01m:58s]Jobs: 30 (f=30): [r(1)][99.2%][r=17.2M][r=2153 IOPS][eta 01m:57s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.9M][r=2107 IOPS][eta 01m:56s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.5M][r=2062 IOPS][eta 01m:55s]Jobs: 30 (f=30): [r(1)][99.2%][r=16.9M][r=2111 IOPS][eta 01m:54s]Jobs: 30 (f=30): [r(1)][99.2%][r=15.4M][r=1928 IOPS][eta 01m:53s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.1M][r=2007 IOPS][eta 01m:52s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.8M][r=2104 IOPS][eta 01m:51s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.9M][r=2113 IOPS][eta 01m:50s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.0M][r=2005 IOPS][eta 01m:49s]Jobs: 30 (f=30): [r(1)][99.3%][r=14.4M][r=1794 IOPS][eta 01m:48s]Jobs: 30 (f=30): [r(1)][99.3%][r=14.0M][r=1873 IOPS][eta 01m:47s]Jobs: 30 (f=30): [r(1)][99.3%][r=15.3M][r=1907 IOPS][eta 01m:46s]Jobs: 30 (f=30): [r(1)][99.3%][r=17.0M][r=2128 IOPS][eta 01m:45s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.6M][r=2072 IOPS][eta 01m:44s]Jobs: 30 (f=30): [r(1)][99.3%][r=14.9M][r=1863 IOPS][eta 01m:43s]Jobs: 30 (f=30): [r(1)][99.3%][r=14.9M][r=1865 IOPS][eta 01m:42s]Jobs: 30 (f=30): [r(1)][99.3%][r=15.3M][r=1914 IOPS][eta 01m:41s]Jobs: 30 (f=30): [r(1)][99.3%][r=16.7M][r=2085 IOPS][eta 01m:40s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.3M][r=2036 IOPS][eta 01m:39s]Jobs: 30 (f=30): [r(1)][99.4%][r=17.5M][r=2185 IOPS][eta 01m:38s]Jobs: 30 (f=30): [r(1)][99.4%][r=17.5M][r=2186 IOPS][eta 01m:37s]Jobs: 30 (f=30): [r(1)][99.4%][r=15.7M][r=1958 IOPS][eta 01m:36s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.2M][r=2030 IOPS][eta 01m:35s]Jobs: 30 (f=30): [r(1)][99.4%][r=15.6M][r=1955 IOPS][eta 01m:34s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.4M][r=2052 IOPS][eta 01m:33s]Jobs: 30 (f=30): [r(1)][99.4%][r=15.8M][r=1973 IOPS][eta 01m:32s]Jobs: 30 (f=30): [r(1)][99.4%][r=17.2M][r=2144 IOPS][eta 01m:31s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.1M][r=2013 IOPS][eta 01m:30s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.3M][r=2035 IOPS][eta 01m:29s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.6M][r=2069 IOPS][eta 01m:28s]Jobs: 30 (f=30): [r(1)][99.4%][r=16.1M][r=2016 IOPS][eta 01m:27s]Jobs: 30 (f=30): [r(1)][99.5%][r=15.9M][r=1984 IOPS][eta 01m:26s]Jobs: 30 (f=30): [r(1)][99.5%][r=14.5M][r=1808 IOPS][eta 01m:25s]Jobs: 30 (f=30): [r(1)][99.5%][r=15.1M][r=1887 IOPS][eta 01m:24s]Jobs: 30 (f=30): [r(1)][99.5%][r=16.4M][r=2048 IOPS][eta 01m:23s]Jobs: 30 (f=30): [r(1)][99.5%][r=16.3M][r=2038 IOPS][eta 01m:22s]Jobs: 30 (f=30): [r(1)][99.5%][r=17.2M][r=2145 IOPS][eta 01m:21s]Jobs: 30 (f=30): [r(1)][99.5%][r=18.4M][r=2305 IOPS][eta 01m:20s]Jobs: 30 (f=30): [r(1)][99.5%][r=18.1M][r=2258 IOPS][eta 01m:19s]Jobs: 30 (f=30): [r(1)][99.5%][r=16.2M][r=2031 IOPS][eta 01m:18s]Jobs: 30 (f=30): [r(1)][99.5%][r=16.0M][r=2121 IOPS][eta 01m:17s]Jobs: 30 (f=30): [r(1)][99.5%][r=17.2M][r=2145 IOPS][eta 01m:16s]Jobs: 30 (f=30): [r(1)][99.5%][r=17.5M][r=2188 IOPS][eta 01m:15s]Jobs: 30 (f=30): [r(1)][99.5%][r=17.3M][r=2164 IOPS][eta 01m:14s]Jobs: 30 (f=30): [r(1)][99.5%][r=17.4M][r=2176 IOPS][eta 01m:13s]Jobs: 30 (f=30): [r(1)][99.6%][r=18.6M][r=2326 IOPS][eta 01m:12s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.3M][r=2161 IOPS][eta 01m:11s]Jobs: 30 (f=30): [r(1)][99.6%][r=15.9M][r=1984 IOPS][eta 01m:10s]Jobs: 30 (f=30): [r(1)][99.6%][r=16.2M][r=2028 IOPS][eta 01m:09s]Jobs: 30 (f=30): [r(1)][99.6%][r=16.7M][r=2087 IOPS][eta 01m:08s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.6M][r=2201 IOPS][eta 01m:07s]Jobs: 30 (f=30): [r(1)][99.6%][r=14.6M][r=1826 IOPS][eta 01m:06s]Jobs: 30 (f=30): [r(1)][99.6%][r=14.5M][r=1815 IOPS][eta 01m:05s]Jobs: 30 (f=30): [r(1)][99.6%][r=18.3M][r=2284 IOPS][eta 01m:04s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.5M][r=2193 IOPS][eta 01m:03s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.1M][r=2143 IOPS][eta 01m:02s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.2M][r=2146 IOPS][eta 01m:01s]Jobs: 30 (f=30): [r(1)][99.6%][r=16.7M][r=2085 IOPS][eta 01m:00s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.3M][r=2158 IOPS][eta 00m:59s]Jobs: 30 (f=30): [r(1)][99.6%][r=17.6M][r=2194 IOPS][eta 00m:58s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.2M][r=2030 IOPS][eta 00m:57s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.0M][r=2002 IOPS][eta 00m:56s]Jobs: 30 (f=30): [r(1)][99.7%][r=14.8M][r=1855 IOPS][eta 00m:55s]Jobs: 30 (f=30): [r(1)][99.7%][r=14.0M][r=1753 IOPS][eta 00m:54s]Jobs: 30 (f=30): [r(1)][99.7%][r=15.1M][r=1892 IOPS][eta 00m:53s]Jobs: 30 (f=30): [r(1)][99.7%][r=17.2M][r=2150 IOPS][eta 00m:52s]Jobs: 30 (f=30): [r(1)][99.7%][r=15.8M][r=1977 IOPS][eta 00m:51s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.0M][r=2002 IOPS][eta 00m:50s]Jobs: 30 (f=30): [r(1)][99.7%][r=17.1M][r=2136 IOPS][eta 00m:49s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.5M][r=2058 IOPS][eta 00m:48s]Jobs: 30 (f=30): [r(1)][99.7%][r=15.8M][r=1970 IOPS][eta 00m:47s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.2M][r=2028 IOPS][eta 00m:46s]Jobs: 30 (f=30): [r(1)][99.7%][r=17.1M][r=2140 IOPS][eta 00m:45s]Jobs: 30 (f=30): [r(1)][99.7%][r=16.9M][r=2110 IOPS][eta 00m:44s]Jobs: 30 (f=30): [r(1)][99.7%][r=17.1M][r=2130 IOPS][eta 00m:43s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.1M][r=2010 IOPS][eta 00m:42s]Jobs: 30 (f=30): [r(1)][99.8%][r=17.4M][r=2177 IOPS][eta 00m:41s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.2M][r=2026 IOPS][eta 00m:40s]Jobs: 30 (f=30): [r(1)][99.8%][r=15.0M][r=1999 IOPS][eta 00m:39s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.5M][r=2065 IOPS][eta 00m:38s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.9M][r=2115 IOPS][eta 00m:37s]Jobs: 30 (f=30): [r(1)][99.8%][r=15.4M][r=1921 IOPS][eta 00m:36s]Jobs: 30 (f=30): [r(1)][99.8%][r=14.2M][r=1776 IOPS][eta 00m:35s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.1M][r=2015 IOPS][eta 00m:34s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.9M][r=2117 IOPS][eta 00m:33s]Jobs: 30 (f=30): [r(1)][99.8%][r=15.4M][r=1923 IOPS][eta 00m:32s]Jobs: 30 (f=30): [r(1)][99.8%][r=15.2M][r=1895 IOPS][eta 00m:31s]Jobs: 30 (f=30): [r(1)][99.8%][r=17.2M][r=2152 IOPS][eta 00m:30s]Jobs: 30 (f=30): [r(1)][99.8%][r=17.7M][r=2217 IOPS][eta 00m:29s]Jobs: 30 (f=30): [r(1)][99.8%][r=16.3M][r=2040 IOPS][eta 00m:28s]Jobs: 30 (f=30): [r(1)][99.8%][r=17.2M][r=2149 IOPS][eta 00m:27s]Jobs: 30 (f=30): [r(1)][99.9%][r=18.6M][r=2327 IOPS][eta 00m:26s]Jobs: 30 (f=30): [r(1)][99.9%][r=18.9M][r=2357 IOPS][eta 00m:25s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.9M][r=2117 IOPS][eta 00m:24s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.7M][r=2088 IOPS][eta 00m:23s]Jobs: 30 (f=30): [r(1)][99.9%][r=17.3M][r=2164 IOPS][eta 00m:22s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.3M][r=2032 IOPS][eta 00m:21s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.0M][r=2121 IOPS][eta 00m:20s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.6M][r=2073 IOPS][eta 00m:19s]Jobs: 30 (f=30): [r(1)][99.9%][r=15.7M][r=1968 IOPS][eta 00m:18s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.5M][r=2062 IOPS][eta 00m:17s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.5M][r=2062 IOPS][eta 00m:16s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.2M][r=2018 IOPS][eta 00m:15s]Jobs: 30 (f=30): [r(1)][99.9%][r=17.3M][r=2163 IOPS][eta 00m:14s]Jobs: 30 (f=30): [r(1)][99.9%][r=15.2M][r=1900 IOPS][eta 00m:13s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.2M][r=2027 IOPS][eta 00m:12s]Jobs: 30 (f=30): [r(1)][99.9%][r=15.7M][r=1964 IOPS][eta 00m:11s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.4M][r=2051 IOPS][eta 00m:10s]Jobs: 30 (f=30): [r(1)][99.9%][r=16.2M][r=2027 IOPS][eta 00m:09s]Jobs: 30 (f=30): [r(1)][100.0%][r=17.4M][r=2178 IOPS][eta 00m:08s]Jobs: 30 (f=30): [r(1)][3.6%][r=16.9M][r=2117 IOPS][eta 05d:12h:13m:28s]Jobs: 30 (f=30): [r(1)][3.6%][r=12.8M][r=1606 IOPS][eta 05d:15h:19m:36s]Jobs: 30 (f=30): [r(1)][3.5%][r=14.0M][r=1756 IOPS][eta 05d:17h:25m:00s]Jobs: 30 (f=30): [r(1)][3.5%][r=9752k][r=1219 IOPS][eta 05d:17h:38m:43s]Jobs: 30 (f=30): [r(1)][3.5%][r=6696k][r=837 IOPS][eta 05d:17h:52m:26s] Jobs: 30 (f=30): [r(1)][3.5%][r=3808k][r=476 IOPS][eta 05d:18h:06m:09s]Jobs: 30 (f=30): [r(1)][3.5%][r=4568k][r=571 IOPS][eta 05d:18h:19m:52s]Jobs: 30 (f=30): [r(1)][3.5%][r=1496k][r=187 IOPS][eta 05d:18h:33m:35s]Jobs: 30 (f=30): [r(1)][3.3%][r=912k][r=114 IOPS][eta 06d:05h:46m:54s] Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:06h:01m:52s]                    Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:06h:16m:49s]Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:06h:31m:46s]Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:06h:46m:43s]Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:07h:01m:40s]Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:07h:16m:37s]Jobs: 30 (f=30): [r(1)][3.3%][eta 06d:07h:31m:35s]<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=48000: Tue Aug 27 12:10:53 2019
+  read: IOPS=75, BW=605KiB/s (620kB/s)(364MiB/615154msec)
+    slat (usec): min=2, max=143, avg=13.11, stdev= 2.94
+    clat (usec): min=489, max=64672k, avg=845389.12, stdev=4816778.56
+     lat (usec): min=501, max=64672k, avg=845402.23, stdev=4816778.57
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   81], 95.00th=[  502],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2347, per=100.00%, avg=626.57, stdev=325.19, samples=1187
+   iops        : min=    2, max=  293, avg=78.30, stdev=40.65, samples=1187
+  lat (usec)   : 500=0.01%, 750=0.08%, 1000=0.01%
+  lat (msec)   : 4=0.31%, 10=17.42%, 20=40.02%, 50=26.77%, 100=6.76%
+  lat (msec)   : 250=2.70%, 500=0.93%, 750=0.41%, 1000=0.22%
+  cpu          : usr=0.20%, sys=0.10%, ctx=46754, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46551,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=605KiB/s (620kB/s), 605KiB/s-605KiB/s (620kB/s-620kB/s), io=364MiB (381MB), run=615154-615154msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+<node2> 
+<node2> 
+<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=145032: Tue Aug 27 12:10:54 2019
+  read: IOPS=75, BW=603KiB/s (617kB/s)(363MiB/615780msec)
+    slat (usec): min=2, max=186, avg=13.24, stdev= 3.06
+    clat (usec): min=472, max=72192k, avg=848964.15, stdev=5679156.30
+     lat (usec): min=484, max=72192k, avg=848977.39, stdev=5679156.27
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   81], 95.00th=[  443],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2688, per=100.00%, avg=620.90, stdev=324.44, samples=1194
+   iops        : min=    2, max=  336, avg=77.59, stdev=40.56, samples=1194
+  lat (usec)   : 500=0.01%, 750=0.09%, 1000=0.01%
+  lat (msec)   : 4=0.32%, 10=17.28%, 20=40.28%, 50=26.76%, 100=6.64%
+  lat (msec)   : 250=2.78%, 500=1.00%, 750=0.44%, 1000=0.24%
+  cpu          : usr=0.21%, sys=0.10%, ctx=46544, majf=0, minf=181
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46402,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=603KiB/s (617kB/s), 603KiB/s-603KiB/s (617kB/s-617kB/s), io=363MiB (380MB), run=615780-615780msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.19%
+rbd: (groupid=0, jobs=1): err= 0: pid=145038: Tue Aug 27 12:10:54 2019
+  read: IOPS=78, BW=626KiB/s (641kB/s)(376MiB/615806msec)
+    slat (usec): min=2, max=127, avg=13.23, stdev= 2.96
+    clat (usec): min=468, max=66687k, avg=817607.33, stdev=4925847.23
+     lat (usec): min=481, max=66687k, avg=817620.56, stdev=4925847.23
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   78], 95.00th=[  426],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2800, per=100.00%, avg=648.03, stdev=331.29, samples=1188
+   iops        : min=    2, max=  350, avg=80.98, stdev=41.42, samples=1188
+  lat (usec)   : 500=0.01%, 750=0.04%, 1000=0.01%
+  lat (msec)   : 4=0.24%, 10=17.52%, 20=39.96%, 50=27.08%, 100=6.86%
+  lat (msec)   : 250=2.57%, 500=0.87%, 750=0.40%, 1000=0.24%
+  cpu          : usr=0.21%, sys=0.11%, ctx=48342, majf=0, minf=22
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=48183,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=626KiB/s (641kB/s), 626KiB/s-626KiB/s (641kB/s-641kB/s), io=376MiB (395MB), run=615806-615806msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.19%
+rbd: (groupid=0, jobs=1): err= 0: pid=48178: Tue Aug 27 12:10:54 2019
+  read: IOPS=78, BW=630KiB/s (645kB/s)(377MiB/612454msec)
+    slat (nsec): min=2500, max=74740, avg=13229.50, stdev=2839.79
+    clat (usec): min=463, max=63280k, avg=812245.27, stdev=4925958.23
+     lat (usec): min=474, max=63280k, avg=812258.50, stdev=4925958.21
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   37], 90.00th=[   70], 95.00th=[  338],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2064, per=100.00%, avg=646.59, stdev=320.62, samples=1192
+   iops        : min=    2, max=  258, avg=80.78, stdev=40.08, samples=1192
+  lat (usec)   : 500=0.01%, 750=0.07%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.30%, 10=17.06%, 20=41.01%, 50=27.47%
+  lat (msec)   : 100=6.45%, 250=2.26%, 500=0.74%, 750=0.38%, 1000=0.20%
+  cpu          : usr=0.21%, sys=0.11%, ctx=48485, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=48241,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=630KiB/s (645kB/s), 630KiB/s-630KiB/s (645kB/s-645kB/s), io=377MiB (395MB), run=612454-612454msec
+
+Disk stats (read/write):
+  sda: ios=30/137, merge=0/76, ticks=84/1988, in_queue=2072, util=0.21%
+<node2> 
+rbd: (groupid=0, jobs=1): err= 0: pid=145028: Tue Aug 27 12:10:54 2019
+  read: IOPS=72, BW=584KiB/s (598kB/s)(351MiB/616348msec)
+    slat (usec): min=2, max=423, avg=13.34, stdev= 4.22
+    clat (usec): min=467, max=52358k, avg=876997.81, stdev=5223049.99
+     lat (usec): min=479, max=52358k, avg=877011.16, stdev=5223050.01
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   79], 95.00th=[  464],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2560, per=100.00%, avg=602.11, stdev=312.43, samples=1193
+   iops        : min=    2, max=  320, avg=75.25, stdev=39.06, samples=1193
+  lat (usec)   : 500=0.01%, 750=0.08%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.28%, 10=17.69%, 20=40.38%, 50=26.43%
+  lat (msec)   : 100=6.64%, 250=2.52%, 500=1.05%, 750=0.48%, 1000=0.31%
+  cpu          : usr=0.21%, sys=0.09%, ctx=45112, majf=0, minf=24
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=44959,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=584KiB/s (598kB/s), 584KiB/s-584KiB/s (598kB/s-598kB/s), io=351MiB (368MB), run=616348-616348msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.19%
+<node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65524: Tue Aug 27 12:10:55 2019
+  read: IOPS=81, BW=651KiB/s (667kB/s)(391MiB/614427msec)
+    slat (usec): min=2, max=507, avg=12.89, stdev= 3.62
+    clat (usec): min=517, max=53300k, avg=785623.74, stdev=4721459.43
+     lat (usec): min=531, max=53300k, avg=785636.63, stdev=4721459.45
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   70], 95.00th=[  296],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2848, per=100.00%, avg=669.55, stdev=325.43, samples=1194
+   iops        : min=    2, max=  356, avg=83.66, stdev=40.70, samples=1194
+  lat (usec)   : 750=0.07%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.35%, 10=16.17%, 20=41.41%, 50=27.76%
+  lat (msec)   : 100=6.67%, 250=2.39%, 500=0.69%, 750=0.33%, 1000=0.15%
+  cpu          : usr=0.21%, sys=0.12%, ctx=50313, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=50034,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=651KiB/s (667kB/s), 651KiB/s-651KiB/s (667kB/s-667kB/s), io=391MiB (410MB), run=614427-614427msec
+
+Disk stats (read/write):
+  sda: ios=231/7869, merge=0/3284, ticks=4664/103968, in_queue=108636, util=8.00%
+<node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65530: Tue Aug 27 12:10:55 2019
+  read: IOPS=80, BW=642KiB/s (657kB/s)(384MiB/612473msec)
+    slat (usec): min=2, max=146, avg=12.95, stdev= 2.96
+    clat (usec): min=515, max=53117k, avg=797735.88, stdev=4583870.21
+     lat (usec): min=527, max=53117k, avg=797748.83, stdev=4583870.21
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   37], 90.00th=[   69], 95.00th=[  288],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2395, per=100.00%, avg=659.49, stdev=346.11, samples=1190
+   iops        : min=    1, max=  299, avg=82.40, stdev=43.27, samples=1190
+  lat (usec)   : 750=0.06%
+  lat (msec)   : 2=0.01%, 4=0.31%, 10=17.48%, 20=41.35%, 50=26.82%
+  lat (msec)   : 100=6.56%, 250=2.28%, 500=0.68%, 750=0.28%, 1000=0.14%
+  cpu          : usr=0.22%, sys=0.10%, ctx=49405, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=49120,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=642KiB/s (657kB/s), 642KiB/s-642KiB/s (657kB/s-657kB/s), io=384MiB (402MB), run=612473-612473msec
+
+Disk stats (read/write):
+  sda: ios=231/7855, merge=0/3279, ticks=4664/103840, in_queue=108508, util=8.01%
+Jobs: 23 (f=22): [r(1)][2.5%][r=504k][r=63 IOPS][eta 06d:08h:16m:26s]<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=48175: Tue Aug 27 12:10:56 2019
+  read: IOPS=77, BW=620KiB/s (635kB/s)(373MiB/615865msec)
+    slat (usec): min=2, max=109, avg=13.26, stdev= 2.81
+    clat (usec): min=441, max=64373k, avg=825495.44, stdev=5047558.99
+     lat (usec): min=450, max=64373k, avg=825508.70, stdev=5047558.99
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   75], 95.00th=[  456],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2842, per=100.00%, avg=639.68, stdev=333.42, samples=1192
+   iops        : min=    2, max=  355, avg=79.92, stdev=41.68, samples=1192
+  lat (usec)   : 500=0.01%, 750=0.09%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.29%, 10=16.33%, 20=40.15%, 50=27.86%
+  lat (msec)   : 100=7.22%, 250=2.40%, 500=0.74%, 750=0.23%, 1000=0.15%
+  cpu          : usr=0.21%, sys=0.11%, ctx=47961, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47727,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=620KiB/s (635kB/s), 620KiB/s-620KiB/s (635kB/s-635kB/s), io=373MiB (391MB), run=615865-615865msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+Jobs: 22 (f=22): [r(1)][2.4%][eta 06d:08h:31m:23s]                   <node3> 
+<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=48176: Tue Aug 27 12:10:58 2019
+  read: IOPS=76, BW=612KiB/s (627kB/s)(369MiB/617088msec)
+    slat (nsec): min=2580, max=87200, avg=13301.69, stdev=2944.37
+    clat (usec): min=447, max=62273k, avg=836328.54, stdev=4851165.13
+     lat (usec): min=457, max=62273k, avg=836341.84, stdev=4851165.15
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   74], 95.00th=[  401],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2512, per=100.00%, avg=633.19, stdev=322.95, samples=1191
+   iops        : min=    2, max=  314, avg=79.12, stdev=40.38, samples=1191
+  lat (usec)   : 500=0.01%, 750=0.14%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.28%, 10=17.41%, 20=40.47%, 50=26.97%
+  lat (msec)   : 100=6.70%, 250=2.45%, 500=0.79%, 750=0.29%, 1000=0.20%
+  cpu          : usr=0.20%, sys=0.11%, ctx=47472, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47201,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=612KiB/s (627kB/s), 612KiB/s-612KiB/s (627kB/s-627kB/s), io=369MiB (387MB), run=617088-617088msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+rbd: (groupid=0, jobs=1): err= 0: pid=48177: Tue Aug 27 12:10:58 2019
+  read: IOPS=77, BW=617KiB/s (632kB/s)(372MiB/616546msec)
+    slat (nsec): min=2520, max=71940, avg=13250.77, stdev=2920.48
+    clat (usec): min=512, max=55711k, avg=828880.86, stdev=4844612.01
+     lat (usec): min=523, max=55711k, avg=828894.11, stdev=4844612.03
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   73], 95.00th=[  351],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2704, per=100.00%, avg=639.96, stdev=337.41, samples=1188
+   iops        : min=    2, max=  338, avg=79.97, stdev=42.18, samples=1188
+  lat (usec)   : 750=0.07%
+  lat (msec)   : 4=0.29%, 10=16.66%, 20=40.78%, 50=27.77%, 100=6.63%
+  lat (msec)   : 250=2.41%, 500=0.71%, 750=0.27%, 1000=0.17%
+  cpu          : usr=0.21%, sys=0.10%, ctx=47850, majf=0, minf=21
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47584,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=617KiB/s (632kB/s), 617KiB/s-617KiB/s (632kB/s-632kB/s), io=372MiB (390MB), run=616546-616546msec
+
+Disk stats (read/write):
+  sda: ios=30/137, merge=0/76, ticks=84/1988, in_queue=2072, util=0.21%
+<node2> 
+Jobs: 19 (f=19): [r(1)][2.2%][r=538k][r=67 IOPS][eta 06d:08h:46m:21s]rbd: (groupid=0, jobs=1): err= 0: pid=145246: Tue Aug 27 12:10:58 2019
+  read: IOPS=72, BW=580KiB/s (594kB/s)(347MiB/612962msec)
+    slat (usec): min=2, max=460, avg=13.29, stdev= 3.91
+    clat (usec): min=513, max=47871k, avg=882261.11, stdev=4948279.19
+     lat (usec): min=523, max=47871k, avg=882274.40, stdev=4948279.19
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   71], 95.00th=[  355],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 3200, per=100.00%, avg=598.23, stdev=334.97, samples=1187
+   iops        : min=    2, max=  400, avg=74.75, stdev=41.87, samples=1187
+  lat (usec)   : 750=0.09%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.30%, 10=17.03%, 20=40.69%, 50=27.32%
+  lat (msec)   : 100=6.77%, 250=2.38%, 500=0.69%, 750=0.23%, 1000=0.21%
+  cpu          : usr=0.20%, sys=0.10%, ctx=44589, majf=0, minf=54
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=44449,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=580KiB/s (594kB/s), 580KiB/s-580KiB/s (594kB/s-594kB/s), io=347MiB (364MB), run=612962-612962msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.19%
+Jobs: 19 (f=19): [r(1)][2.1%][eta 06d:09h:01m:18s]                   <node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65375: Tue Aug 27 12:11:00 2019
+  read: IOPS=74, BW=597KiB/s (611kB/s)(362MiB/621475msec)
+    slat (usec): min=2, max=293, avg=13.09, stdev= 3.22
+    clat (usec): min=493, max=76314k, avg=857776.07, stdev=5109017.47
+     lat (usec): min=506, max=76314k, avg=857789.16, stdev=5109017.48
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   78], 95.00th=[  447],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2656, per=100.00%, avg=620.59, stdev=315.45, samples=1193
+   iops        : min=    2, max=  332, avg=77.53, stdev=39.43, samples=1193
+  lat (usec)   : 500=0.01%, 750=0.07%, 1000=0.01%
+  lat (msec)   : 4=0.24%, 10=17.56%, 20=40.79%, 50=26.38%, 100=6.59%
+  lat (msec)   : 250=2.58%, 500=0.90%, 750=0.40%, 1000=0.28%
+  cpu          : usr=0.20%, sys=0.11%, ctx=46567, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46343,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=597KiB/s (611kB/s), 597KiB/s-597KiB/s (611kB/s-611kB/s), io=362MiB (380MB), run=621475-621475msec
+
+Disk stats (read/write):
+  sda: ios=231/7988, merge=0/3330, ticks=4664/105032, in_queue=109700, util=8.01%
+<node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65525: Tue Aug 27 12:11:00 2019
+  read: IOPS=76, BW=611KiB/s (626kB/s)(369MiB/619095msec)
+    slat (nsec): min=2300, max=82020, avg=12930.98, stdev=2788.96
+    clat (usec): min=504, max=66773k, avg=837340.35, stdev=5040763.64
+     lat (usec): min=518, max=66773k, avg=837353.28, stdev=5040763.65
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   73], 95.00th=[  347],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2160, per=100.00%, avg=633.39, stdev=316.75, samples=1193
+   iops        : min=    2, max=  270, avg=79.14, stdev=39.60, samples=1193
+  lat (usec)   : 750=0.09%, 1000=0.01%
+  lat (msec)   : 4=0.33%, 10=17.25%, 20=40.65%, 50=27.22%, 100=6.63%
+  lat (msec)   : 250=2.46%, 500=0.80%, 750=0.34%, 1000=0.18%
+  cpu          : usr=0.20%, sys=0.10%, ctx=47616, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47295,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=611KiB/s (626kB/s), 611KiB/s-611KiB/s (626kB/s-626kB/s), io=369MiB (387MB), run=619095-619095msec
+
+Disk stats (read/write):
+  sda: ios=231/7897, merge=0/3301, ticks=4664/104284, in_queue=108952, util=7.99%
+<node1> 
+<node2> 
+Jobs: 15 (f=15): [r(1)][1.9%][r=1037k][r=129 IOPS][eta 06d:09h:16m:15s]rbd: (groupid=0, jobs=1): err= 0: pid=65374: Tue Aug 27 12:11:00 2019
+  read: IOPS=73, BW=585KiB/s (599kB/s)(355MiB/621884msec)
+    slat (usec): min=2, max=657, avg=13.15, stdev= 4.90
+    clat (usec): min=470, max=67058k, avg=874792.36, stdev=4843258.47
+     lat (usec): min=481, max=67058k, avg=874805.51, stdev=4843258.47
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   75], 95.00th=[  447],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2544, per=100.00%, avg=610.42, stdev=318.74, samples=1190
+   iops        : min=    1, max=  318, avg=76.26, stdev=39.85, samples=1190
+  lat (usec)   : 500=0.01%, 750=0.09%
+  lat (msec)   : 4=0.33%, 10=17.50%, 20=40.39%, 50=26.89%, 100=6.56%
+  lat (msec)   : 250=2.43%, 500=0.92%, 750=0.35%, 1000=0.23%
+  cpu          : usr=0.19%, sys=0.10%, ctx=45759, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=45471,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=585KiB/s (599kB/s), 585KiB/s-585KiB/s (599kB/s-599kB/s), io=355MiB (372MB), run=621884-621884msec
+
+Disk stats (read/write):
+  sda: ios=231/7988, merge=0/3330, ticks=4664/105032, in_queue=109700, util=8.00%
+rbd: (groupid=0, jobs=1): err= 0: pid=145181: Tue Aug 27 12:11:00 2019
+  read: IOPS=73, BW=588KiB/s (602kB/s)(356MiB/619854msec)
+    slat (usec): min=2, max=175, avg=13.28, stdev= 3.22
+    clat (usec): min=481, max=61727k, avg=870086.49, stdev=5147734.89
+     lat (usec): min=490, max=61727k, avg=870099.77, stdev=5147734.89
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   73], 95.00th=[  384],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2720, per=100.00%, avg=610.78, stdev=298.51, samples=1192
+   iops        : min=    2, max=  340, avg=76.32, stdev=37.32, samples=1192
+  lat (usec)   : 500=0.01%, 750=0.09%
+  lat (msec)   : 2=0.01%, 4=0.30%, 10=17.35%, 20=40.55%, 50=27.16%
+  lat (msec)   : 100=6.60%, 250=2.42%, 500=0.80%, 750=0.31%, 1000=0.26%
+  cpu          : usr=0.21%, sys=0.10%, ctx=45736, majf=0, minf=51
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=45570,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=588KiB/s (602kB/s), 588KiB/s-588KiB/s (602kB/s-602kB/s), io=356MiB (373MB), run=619854-619854msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+<node2> 
+rbd: (groupid=0, jobs=1): err= 0: pid=145182: Tue Aug 27 12:11:00 2019
+  read: IOPS=76, BW=612KiB/s (627kB/s)(370MiB/619618msec)
+    slat (usec): min=2, max=232, avg=13.23, stdev= 3.09
+    clat (usec): min=497, max=68157k, avg=836250.49, stdev=4766296.83
+     lat (usec): min=506, max=68157k, avg=836263.72, stdev=4766296.83
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   74], 95.00th=[  409],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2528, per=100.00%, avg=636.79, stdev=329.00, samples=1189
+   iops        : min=    1, max=  316, avg=79.53, stdev=41.15, samples=1189
+  lat (usec)   : 500=0.01%, 750=0.08%
+  lat (msec)   : 2=0.01%, 4=0.28%, 10=16.79%, 20=40.95%, 50=27.47%
+  lat (msec)   : 100=6.43%, 250=2.35%, 500=0.86%, 750=0.35%, 1000=0.23%
+  cpu          : usr=0.21%, sys=0.10%, ctx=47566, majf=0, minf=49
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47396,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=612KiB/s (627kB/s), 612KiB/s-612KiB/s (627kB/s-627kB/s), io=370MiB (388MB), run=619618-619618msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=48182: Tue Aug 27 12:11:01 2019
+  read: IOPS=74, BW=593KiB/s (607kB/s)(357MiB/616653msec)
+    slat (usec): min=2, max=145, avg=13.24, stdev= 2.90
+    clat (usec): min=492, max=73202k, avg=863557.07, stdev=5739670.76
+     lat (usec): min=505, max=73202k, avg=863570.30, stdev=5739670.77
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   37], 90.00th=[   68], 95.00th=[  271],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 3072, per=100.00%, avg=614.80, stdev=322.75, samples=1187
+   iops        : min=    2, max=  384, avg=76.80, stdev=40.36, samples=1187
+  lat (usec)   : 500=0.01%, 750=0.09%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.33%, 10=17.39%, 20=41.36%, 50=26.90%
+  lat (msec)   : 100=6.51%, 250=2.32%, 500=0.71%, 750=0.38%, 1000=0.22%
+  cpu          : usr=0.20%, sys=0.11%, ctx=45933, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=45681,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=593KiB/s (607kB/s), 593KiB/s-593KiB/s (607kB/s-607kB/s), io=357MiB (374MB), run=616653-616653msec
+
+Disk stats (read/write):
+  sda: ios=30/137, merge=0/76, ticks=84/1988, in_queue=2072, util=0.21%
+<node2> 
+Jobs: 12 (f=12): [r(1)][1.4%][r=558k][r=69 IOPS][eta 06d:09h:31m:12s]  rbd: (groupid=0, jobs=1): err= 0: pid=145039: Tue Aug 27 12:11:01 2019
+  read: IOPS=74, BW=599KiB/s (614kB/s)(364MiB/622838msec)
+    slat (usec): min=2, max=880, avg=13.11, stdev= 5.10
+    clat (usec): min=564, max=78445k, avg=853917.32, stdev=5312881.02
+     lat (usec): min=577, max=78445k, avg=853930.43, stdev=5312881.01
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   75], 95.00th=[  355],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2400, per=100.00%, avg=624.27, stdev=319.11, samples=1194
+   iops        : min=    2, max=  300, avg=78.01, stdev=39.89, samples=1194
+  lat (usec)   : 750=0.03%, 1000=0.02%
+  lat (msec)   : 2=0.02%, 4=0.32%, 10=17.41%, 20=41.11%, 50=26.57%
+  lat (msec)   : 100=6.33%, 250=2.66%, 500=0.93%, 750=0.47%, 1000=0.24%
+  cpu          : usr=0.21%, sys=0.09%, ctx=46803, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46653,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=599KiB/s (614kB/s), 599KiB/s-599KiB/s (614kB/s-614kB/s), io=364MiB (382MB), run=622838-622838msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=48160: Tue Aug 27 12:11:01 2019
+  read: IOPS=74, BW=595KiB/s (610kB/s)(362MiB/621703msec)
+    slat (nsec): min=2500, max=86040, avg=13312.10, stdev=2896.43
+    clat (usec): min=506, max=75164k, avg=859329.31, stdev=5584891.33
+     lat (usec): min=520, max=75164k, avg=859342.62, stdev=5584891.34
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   39], 90.00th=[   79], 95.00th=[  472],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2864, per=100.00%, avg=621.32, stdev=325.50, samples=1190
+   iops        : min=    2, max=  358, avg=77.65, stdev=40.69, samples=1190
+  lat (usec)   : 750=0.07%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.29%, 10=16.82%, 20=40.19%, 50=27.54%
+  lat (msec)   : 100=6.71%, 250=2.53%, 500=0.89%, 750=0.36%, 1000=0.22%
+  cpu          : usr=0.20%, sys=0.11%, ctx=46538, majf=0, minf=141
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46276,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=595KiB/s (610kB/s), 595KiB/s-595KiB/s (610kB/s-610kB/s), io=362MiB (379MB), run=621703-621703msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+<node1> 
+<node3> 
+<node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65528: Tue Aug 27 12:11:01 2019
+  read: IOPS=76, BW=609KiB/s (624kB/s)(368MiB/619283msec)
+    slat (usec): min=2, max=480, avg=13.03, stdev= 3.61
+    clat (usec): min=521, max=74615k, avg=840237.84, stdev=4938951.75
+     lat (usec): min=533, max=74615k, avg=840250.86, stdev=4938951.83
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   37], 90.00th=[   72], 95.00th=[  409],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2736, per=100.00%, avg=631.40, stdev=324.10, samples=1193
+   iops        : min=    1, max=  342, avg=78.90, stdev=40.51, samples=1193
+  lat (usec)   : 750=0.09%
+  lat (msec)   : 4=0.34%, 10=17.62%, 20=40.66%, 50=27.09%, 100=6.39%
+  lat (msec)   : 250=2.30%, 500=0.68%, 750=0.28%, 1000=0.21%
+  cpu          : usr=0.21%, sys=0.10%, ctx=47462, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47146,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=609KiB/s (624kB/s), 609KiB/s-609KiB/s (624kB/s-624kB/s), io=368MiB (386MB), run=619283-619283msec
+
+Disk stats (read/write):
+  sda: ios=231/7903, merge=0/3307, ticks=4664/104340, in_queue=109008, util=8.00%
+rbd: (groupid=0, jobs=1): err= 0: pid=47976: Tue Aug 27 12:11:01 2019
+  read: IOPS=81, BW=648KiB/s (664kB/s)(395MiB/623506msec)
+    slat (usec): min=2, max=117, avg=13.09, stdev= 3.07
+    clat (usec): min=463, max=87218k, avg=789231.31, stdev=5154010.67
+     lat (usec): min=475, max=87218k, avg=789244.41, stdev=5154010.68
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   78], 95.00th=[  355],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 3184, per=100.00%, avg=673.37, stdev=339.49, samples=1199
+   iops        : min=    2, max=  398, avg=84.13, stdev=42.45, samples=1199
+  lat (usec)   : 500=0.01%, 750=0.07%
+  lat (msec)   : 4=0.33%, 10=16.53%, 20=40.01%, 50=27.99%, 100=6.96%
+  lat (msec)   : 250=2.59%, 500=0.89%, 750=0.32%, 1000=0.22%
+  cpu          : usr=0.22%, sys=0.11%, ctx=50756, majf=0, minf=23
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=50530,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=648KiB/s (664kB/s), 648KiB/s-648KiB/s (664kB/s-664kB/s), io=395MiB (414MB), run=623506-623506msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+rbd: (groupid=0, jobs=1): err= 0: pid=65373: Tue Aug 27 12:11:01 2019
+  read: IOPS=73, BW=590KiB/s (605kB/s)(359MiB/623390msec)
+    slat (usec): min=2, max=129, avg=13.06, stdev= 2.98
+    clat (usec): min=480, max=79628k, avg=866569.63, stdev=5308846.46
+     lat (usec): min=492, max=79629k, avg=866582.69, stdev=5308846.49
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   77], 95.00th=[  405],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 3072, per=100.00%, avg=620.32, stdev=363.22, samples=1185
+   iops        : min=    2, max=  384, avg=77.50, stdev=45.41, samples=1185
+  lat (usec)   : 500=0.01%, 750=0.10%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.28%, 10=16.69%, 20=40.79%, 50=27.38%
+  lat (msec)   : 100=6.40%, 250=2.60%, 500=0.97%, 750=0.42%, 1000=0.25%
+  cpu          : usr=0.20%, sys=0.10%, ctx=46291, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46012,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=590KiB/s (605kB/s), 590KiB/s-590KiB/s (605kB/s-605kB/s), io=359MiB (377MB), run=623390-623390msec
+
+Disk stats (read/write):
+  sda: ios=231/8002, merge=0/3339, ticks=4664/105160, in_queue=109828, util=8.00%
+<node2> 
+<node2> 
+rbd: (groupid=0, jobs=1): err= 0: pid=145029: Tue Aug 27 12:11:02 2019
+  read: IOPS=75, BW=602KiB/s (617kB/s)(367MiB/623628msec)
+    slat (usec): min=2, max=213, avg=13.23, stdev= 3.34
+    clat (usec): min=488, max=77523k, avg=849772.97, stdev=5169206.19
+     lat (usec): min=502, max=77523k, avg=849786.20, stdev=5169206.21
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   78], 95.00th=[  397],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2528, per=100.00%, avg=630.76, stdev=324.93, samples=1189
+   iops        : min=    2, max=  316, avg=78.83, stdev=40.62, samples=1189
+  lat (usec)   : 500=0.01%, 750=0.06%, 1000=0.01%
+  lat (msec)   : 4=0.29%, 10=16.91%, 20=40.50%, 50=27.11%, 100=6.75%
+  lat (msec)   : 250=2.72%, 500=0.93%, 750=0.38%, 1000=0.23%
+  cpu          : usr=0.20%, sys=0.11%, ctx=47065, majf=0, minf=23
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46939,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=602KiB/s (617kB/s), 602KiB/s-602KiB/s (617kB/s-617kB/s), io=367MiB (385MB), run=623628-623628msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+rbd: (groupid=0, jobs=1): err= 0: pid=145187: Tue Aug 27 12:11:02 2019
+  read: IOPS=72, BW=579KiB/s (593kB/s)(351MiB/620034msec)
+    slat (usec): min=2, max=354, avg=13.31, stdev= 3.76
+    clat (usec): min=497, max=78503k, avg=883285.86, stdev=5124865.78
+     lat (usec): min=510, max=78503k, avg=883299.16, stdev=5124865.78
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   39], 90.00th=[   74], 95.00th=[  481],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2384, per=100.00%, avg=602.32, stdev=305.84, samples=1191
+   iops        : min=    1, max=  298, avg=75.26, stdev=38.24, samples=1191
+  lat (usec)   : 500=0.01%, 750=0.08%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.27%, 10=17.53%, 20=40.52%, 50=26.85%
+  lat (msec)   : 100=6.61%, 250=2.40%, 500=0.76%, 750=0.36%, 1000=0.18%
+  cpu          : usr=0.20%, sys=0.10%, ctx=45043, majf=0, minf=53
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=44902,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=579KiB/s (593kB/s), 579KiB/s-579KiB/s (593kB/s-593kB/s), io=351MiB (368MB), run=620034-620034msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+<node3> 
+<node1> 
+Jobs: 3 (f=3): [E(1)][0.7%][r=1554k][r=193 IOPS][eta 06d:09h:46m:09s]<node2> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65376: Tue Aug 27 12:11:02 2019
+  read: IOPS=76, BW=609KiB/s (623kB/s)(371MiB/623822msec)
+    slat (usec): min=2, max=323, avg=12.86, stdev= 3.04
+    clat (usec): min=499, max=88222k, avg=840880.63, stdev=5139391.74
+     lat (usec): min=509, max=88222k, avg=840893.50, stdev=5139391.76
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   18], 60.00th=[   22],
+     | 70.00th=[   28], 80.00th=[   40], 90.00th=[   79], 95.00th=[  435],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2608, per=100.00%, avg=636.02, stdev=328.99, samples=1192
+   iops        : min=    2, max=  326, avg=79.48, stdev=41.12, samples=1192
+  lat (usec)   : 500=0.01%, 750=0.07%, 1000=0.01%
+  lat (msec)   : 4=0.29%, 10=16.83%, 20=40.09%, 50=27.23%, 100=7.11%
+  lat (msec)   : 250=2.63%, 500=0.89%, 750=0.32%, 1000=0.20%
+  cpu          : usr=0.21%, sys=0.10%, ctx=47755, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=47450,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=609KiB/s (623kB/s), 609KiB/s-609KiB/s (623kB/s-623kB/s), io=371MiB (389MB), run=623822-623822msec
+
+Disk stats (read/write):
+  sda: ios=231/8012, merge=0/3348, ticks=4664/105324, in_queue=109992, util=8.01%
+rbd: (groupid=0, jobs=1): err= 0: pid=47975: Tue Aug 27 12:11:02 2019
+  read: IOPS=78, BW=627KiB/s (642kB/s)(382MiB/623858msec)
+    slat (usec): min=2, max=322, avg=13.49, stdev= 3.43
+    clat (usec): min=454, max=95561k, avg=815884.82, stdev=6088347.94
+     lat (usec): min=468, max=95561k, avg=815898.32, stdev=6088347.93
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   72], 95.00th=[  321],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 3936, per=100.00%, avg=658.29, stdev=333.31, samples=1187
+   iops        : min=    1, max=  492, avg=82.24, stdev=41.67, samples=1187
+  lat (usec)   : 500=0.01%, 750=0.09%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.36%, 10=16.80%, 20=41.48%, 50=26.89%
+  lat (msec)   : 100=6.57%, 250=2.43%, 500=0.86%, 750=0.45%, 1000=0.26%
+  cpu          : usr=0.21%, sys=0.12%, ctx=49189, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=48907,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=627KiB/s (642kB/s), 627KiB/s-627KiB/s (642kB/s-642kB/s), io=382MiB (401MB), run=623858-623858msec
+
+Disk stats (read/write):
+  sda: ios=30/138, merge=0/77, ticks=84/1996, in_queue=2080, util=0.21%
+rbd: (groupid=0, jobs=1): err= 0: pid=145056: Tue Aug 27 12:11:02 2019
+  read: IOPS=72, BW=578KiB/s (592kB/s)(352MiB/623754msec)
+    slat (usec): min=2, max=173, avg=13.20, stdev= 2.92
+    clat (usec): min=472, max=91175k, avg=885563.78, stdev=5672253.84
+     lat (usec): min=486, max=91175k, avg=885576.98, stdev=5672253.84
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    8], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   16], 50.00th=[   18], 60.00th=[   23],
+     | 70.00th=[   29], 80.00th=[   42], 90.00th=[   85], 95.00th=[  489],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2368, per=100.00%, avg=606.30, stdev=321.21, samples=1187
+   iops        : min=    1, max=  296, avg=75.73, stdev=40.17, samples=1187
+  lat (usec)   : 500=0.01%, 750=0.07%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.30%, 10=15.01%, 20=40.23%, 50=28.06%
+  lat (msec)   : 100=7.39%, 250=2.94%, 500=1.00%, 750=0.44%, 1000=0.29%
+  cpu          : usr=0.19%, sys=0.10%, ctx=45169, majf=0, minf=19
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=45051,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=578KiB/s (592kB/s), 578KiB/s-578KiB/s (592kB/s-592kB/s), io=352MiB (369MB), run=623754-623754msec
+
+Disk stats (read/write):
+  sda: ios=0/133, merge=0/61, ticks=0/2028, in_queue=2028, util=0.18%
+<node1> 
+<node3> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65523: Tue Aug 27 12:11:02 2019
+  read: IOPS=71, BW=569KiB/s (583kB/s)(346MiB/622179msec)
+    slat (usec): min=2, max=156, avg=12.87, stdev= 3.06
+    clat (usec): min=464, max=93099k, avg=898803.94, stdev=6606126.48
+     lat (usec): min=475, max=93099k, avg=898816.81, stdev=6606126.48
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   73], 95.00th=[  338],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2864, per=100.00%, avg=601.50, stdev=318.96, samples=1176
+   iops        : min=    2, max=  358, avg=75.17, stdev=39.87, samples=1176
+  lat (usec)   : 500=0.01%, 750=0.07%
+  lat (msec)   : 4=0.28%, 10=17.26%, 20=41.17%, 50=26.84%, 100=6.49%
+  lat (msec)   : 250=2.45%, 500=0.85%, 750=0.39%, 1000=0.33%
+  cpu          : usr=0.19%, sys=0.10%, ctx=44565, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=44277,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=569KiB/s (583kB/s), 569KiB/s-569KiB/s (583kB/s-583kB/s), io=346MiB (363MB), run=622179-622179msec
+
+Disk stats (read/write):
+  sda: ios=231/7927, merge=0/3322, ticks=4664/104640, in_queue=109308, util=8.00%
+rbd: (groupid=0, jobs=1): err= 0: pid=48181: Tue Aug 27 12:11:02 2019
+  read: IOPS=74, BW=595KiB/s (609kB/s)(360MiB/620172msec)
+    slat (usec): min=2, max=246, avg=13.56, stdev= 3.25
+    clat (usec): min=491, max=81978k, avg=860759.92, stdev=5350974.82
+     lat (usec): min=501, max=81978k, avg=860773.48, stdev=5350974.81
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   38], 90.00th=[   72], 95.00th=[  418],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   16, max= 2400, per=100.00%, avg=618.23, stdev=309.31, samples=1191
+   iops        : min=    2, max=  300, avg=77.25, stdev=38.67, samples=1191
+  lat (usec)   : 500=0.01%, 750=0.10%
+  lat (msec)   : 2=0.01%, 4=0.28%, 10=17.56%, 20=40.63%, 50=26.99%
+  lat (msec)   : 100=6.49%, 250=2.33%, 500=0.75%, 750=0.36%, 1000=0.19%
+  cpu          : usr=0.21%, sys=0.10%, ctx=46364, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=46087,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+
+Run status group 0 (all jobs):
+   READ: bw=595KiB/s (609kB/s), 595KiB/s-595KiB/s (609kB/s-609kB/s), io=360MiB (378MB), run=620172-620172msec
+
+Disk stats (read/write):
+  sda: ios=30/137, merge=0/77, ticks=84/1988, in_queue=2072, util=0.21%
+<node1> 
+rbd: (groupid=0, jobs=1): err= 0: pid=65533: Tue Aug 27 12:11:02 2019
+  read: IOPS=65, BW=527KiB/s (540kB/s)(317MiB/616384msec)
+    slat (usec): min=2, max=161, avg=13.03, stdev= 2.91
+    clat (usec): min=453, max=108520k, avg=970474.11, stdev=7464993.85
+     lat (usec): min=461, max=108520k, avg=970487.13, stdev=7464993.87
+    clat percentiles (msec):
+     |  1.00th=[    5],  5.00th=[    7], 10.00th=[    9], 20.00th=[   11],
+     | 30.00th=[   13], 40.00th=[   15], 50.00th=[   17], 60.00th=[   21],
+     | 70.00th=[   27], 80.00th=[   37], 90.00th=[   70], 95.00th=[  351],
+     | 99.00th=[17113], 99.50th=[17113], 99.90th=[17113], 99.95th=[17113],
+     | 99.99th=[17113]
+   bw (  KiB/s): min=   15, max= 2944, per=100.00%, avg=556.18, stdev=327.63, samples=1167
+   iops        : min=    1, max=  368, avg=69.51, stdev=40.96, samples=1167
+  lat (usec)   : 500=0.02%, 750=0.38%, 1000=0.03%
+  lat (msec)   : 2=0.01%, 4=0.32%, 10=17.70%, 20=40.91%, 50=26.44%
+  lat (msec)   : 100=6.48%, 250=2.31%, 500=0.75%, 750=0.32%, 1000=0.21%
+  cpu          : usr=0.17%, sys=0.10%, ctx=40913, majf=0, minf=20
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.8%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=40631,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=64
+All clients: (groupid=0, jobs=30): err= 0: pid=0: Tue Aug 27 12:11:02 2019
+  read: IOPS=2242, BW=17.5Mi (18.4M)(10.7GiB/623858msec)
+    slat (usec): min=2, max=880, avg=13.18, stdev= 3.30
+    clat (usec): min=441, max=108520k, avg=849082.27, stdev=5213334.77
+     lat (usec): min=450, max=108520k, avg=849095.45, stdev=5213334.78
+   bw (  KiB/s): min=   15, max= 3936, per=3.46%, avg=626.26, stdev=320.73, samples=35681
+   iops        : min=    1, max=  492, avg=78.25, stdev=40.10, samples=35681
+  lat (usec)   : 500=0.01%, 750=0.09%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.30%, 10=17.08%, 20=40.65%, 50=27.14%
+  lat (msec)   : 100=6.66%, 250=2.49%, 500=0.83%, 750=0.36%, 1000=0.22%
+  cpu          : usr=0.20%, sys=0.10%, ctx=1405917, majf=0, minf=1016
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.1%, >=64=0.0%
+     issued rwts: total=1399068,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+
+Run status group 0 (all jobs):
+   READ: bw=527KiB/s (540kB/s), 527KiB/s-527KiB/s (540kB/s-540kB/s), io=317MiB (333MB), run=616384-616384msec
+
+Disk stats (read/write):
+  sda: ios=231/7845, merge=0/3296, ticks=4664/101120, in_queue=105788, util=7.99%

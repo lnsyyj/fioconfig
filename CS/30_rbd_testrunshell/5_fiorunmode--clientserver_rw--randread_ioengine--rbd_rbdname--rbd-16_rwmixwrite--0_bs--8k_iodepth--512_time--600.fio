@@ -1,0 +1,12 @@
+[global]
+ioengine=rbd
+clientname=admin
+invalidate=0
+runtime=600
+[rbd]
+pool=rbd
+rbdname=rbd-16
+iodepth=512
+rw=randread
+bs=8k
+rwmixwrite=0
