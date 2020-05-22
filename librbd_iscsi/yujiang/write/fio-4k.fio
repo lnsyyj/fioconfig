@@ -1,0 +1,14 @@
+[write-4k]
+description="write test with block size of 4k"
+ioengine=rbd
+clientname=admin
+pool=yujiang_metadata
+rbdname=iscsirbd001
+invalidate=0    # mandatory
+numjobs=1
+direct=1
+size=1024G
+iodepth=16
+runtime=600
+rw=write
+bs=4k
