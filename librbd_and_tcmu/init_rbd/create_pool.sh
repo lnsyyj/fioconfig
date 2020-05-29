@@ -7,3 +7,5 @@ ceph osd pool create yujiang_data 512 512 erasure rbdecprofile
 ceph osd pool set yujiang_data allow_ec_overwrites true
 rbd create --size 1T --data-pool yujiang_data yujiang_metadata/iscsirbd001
 
+ceph osd pool create yujiang_xcblock 512 512
+rbd create --size 1T yujiang_xcblock/yujiangiscsi01
