@@ -1,3 +1,32 @@
 rbd_1024_randwrite_8k: (g=0): rw=randwrite, bs=(R) 8192B-8192B, (W) 8192B-8192B, (T) 8192B-8192B, ioengine=rbd, iodepth=1024
 fio-3.1
 Starting 1 process
+
+rbd_1024_randwrite_8k: (groupid=0, jobs=1): err= 0: pid=135594: Fri May 29 19:48:34 2020
+  write: IOPS=4270, BW=33.4MiB/s (34.0MB/s)(19.7GiB/604175msec)
+    slat (nsec): min=1957, max=5518.5k, avg=9035.95, stdev=12664.92
+    clat (usec): min=1973, max=11810k, avg=239769.11, stdev=409884.51
+     lat (usec): min=1980, max=11810k, avg=239778.15, stdev=409884.61
+    clat percentiles (msec):
+     |  1.00th=[    9],  5.00th=[   21], 10.00th=[   33], 20.00th=[   52],
+     | 30.00th=[   75], 40.00th=[  102], 50.00th=[  132], 60.00th=[  174],
+     | 70.00th=[  230], 80.00th=[  330], 90.00th=[  518], 95.00th=[  726],
+     | 99.00th=[ 1720], 99.50th=[ 2769], 99.90th=[ 5269], 99.95th=[ 6074],
+     | 99.99th=[ 8020]
+   bw (  KiB/s): min=  942, max=94176, per=100.00%, avg=34855.69, stdev=19417.71, samples=1185
+   iops        : min=  117, max=11772, avg=4356.90, stdev=2427.20, samples=1185
+  lat (msec)   : 2=0.01%, 4=0.13%, 10=1.32%, 20=3.23%, 50=14.55%
+  lat (msec)   : 100=20.16%, 250=33.16%, 500=16.69%, 750=6.13%, 1000=2.10%
+  lat (msec)   : 2000=1.72%, >=2000=0.81%
+  cpu          : usr=35.05%, sys=63.79%, ctx=932960, majf=0, minf=2713754
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=100.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.1%
+     issued rwt: total=0,2580121,0, short=0,0,0, dropped=0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1024
+
+Run status group 0 (all jobs):
+  WRITE: bw=33.4MiB/s (34.0MB/s), 33.4MiB/s-33.4MiB/s (34.0MB/s-34.0MB/s), io=19.7GiB (21.1GB), run=604175-604175msec
+
+Disk stats (read/write):
+  sda: ios=0/19082, merge=0/11496, ticks=0/134932, in_queue=134928, util=0.81%
