@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-IOENGINE="libaio"
 POOL_NAME="yujiang_xcblock"
 RBD_NAME="yujiangiscsi01"
 NUMJOBS=1
@@ -13,6 +12,8 @@ BA="4k"
 BS="4k"
 POOL_TYPE="re"
 
+SHELL_FOLDER=$(dirname "$0")
+source ${SHELL_FOLDER}/common_variable
 
 RW=(randwrite randread)
 for rw_name in ${RW[@]}

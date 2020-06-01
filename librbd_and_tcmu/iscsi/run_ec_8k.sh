@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-IOENGINE="libaio"
 POOL_NAME="yujiang_metadata"
 RBD_NAME="yujiangiscsi01"
 NUMJOBS=1
@@ -12,6 +11,9 @@ RUNTIME=600
 BA="8k"
 BS="8k"
 POOL_TYPE="ec"
+
+SHELL_FOLDER=$(dirname "$0")
+source ${SHELL_FOLDER}/common_variable
 
 
 RW=(randwrite randread)
