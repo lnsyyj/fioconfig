@@ -1,0 +1,27 @@
+libaio_1024_randwrite_1m_ec: (g=0): rw=randwrite, bs=(R) 1024KiB-1024KiB, (W) 1024KiB-1024KiB, (T) 1024KiB-1024KiB, ioengine=libaio, iodepth=1024
+fio-3.1
+Starting 1 process
+
+libaio_1024_randwrite_1m_ec: (groupid=0, jobs=1): err= 0: pid=1391343: Wed Jun  3 03:52:34 2020
+  write: IOPS=206, BW=206MiB/s (216MB/s)(121GiB/600424msec)
+    slat (usec): min=28, max=523151, avg=4839.29, stdev=19378.95
+    clat (msec): min=367, max=8320, avg=4943.63, stdev=801.28
+     lat (msec): min=439, max=8320, avg=4948.47, stdev=801.87
+    clat percentiles (msec):
+     |  1.00th=[ 3675],  5.00th=[ 3775], 10.00th=[ 3842], 20.00th=[ 4010],
+     | 30.00th=[ 4463], 40.00th=[ 4799], 50.00th=[ 5067], 60.00th=[ 5336],
+     | 70.00th=[ 5470], 80.00th=[ 5604], 90.00th=[ 5805], 95.00th=[ 6074],
+     | 99.00th=[ 6678], 99.50th=[ 7013], 99.90th=[ 7483], 99.95th=[ 7483],
+     | 99.99th=[ 7550]
+   bw (  KiB/s): min=32768, max=311296, per=99.91%, avg=211062.39, stdev=44702.13, samples=1193
+   iops        : min=   32, max=  304, avg=206.04, stdev=43.66, samples=1193
+  lat (msec)   : 500=0.01%, 750=0.04%, 1000=0.04%, 2000=0.17%, >=2000=99.74%
+  cpu          : usr=1.77%, sys=1.17%, ctx=10270, majf=0, minf=298713
+  IO depths    : 1=0.1%, 2=0.1%, 4=0.1%, 8=0.1%, 16=0.1%, 32=0.1%, >=64=99.9%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.1%
+     issued rwt: total=0,123874,0, short=0,0,0, dropped=0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1024
+
+Run status group 0 (all jobs):
+  WRITE: bw=206MiB/s (216MB/s), 206MiB/s-206MiB/s (216MB/s-216MB/s), io=121GiB (130GB), run=600424-600424msec
