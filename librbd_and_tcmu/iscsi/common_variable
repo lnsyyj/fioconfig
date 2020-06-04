@@ -3,4 +3,4 @@
 #IOENGINE="sync"
 IOENGINE="libaio"
 
-FILE_NAME="/dev/mapper/mpathb"
+FILE_NAME="/dev/mapper/mpatha"
